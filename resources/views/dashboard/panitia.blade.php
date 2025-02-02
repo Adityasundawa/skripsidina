@@ -144,7 +144,7 @@
                             </div>
                         </center>
 
-                        <p class="mt-2">
+                        <p class="mt-2 text-justify">
                             &nbsp; Pada 22 Juni 1945, Panitia Sembilan menghasilkan rumusan yang disebut Piagam Jakarta
                             atau Jakarta Charter. Piagam Jakarta memainkan peran penting dalam proses perumusan
                             Pancasila dan Undang-undang Dasar 1945. Piagam ini berisi lima sila sebagai dasar
@@ -152,6 +152,7 @@
 
                         </p>
 
+                       <b>
                         <p>
                             1.Ketuhanan, dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya <br>
                             2.Kemanusiaan yang adil dan beradab<br>
@@ -162,7 +163,8 @@
                             seluruh rakyat Indonesia<br>
 
                         </p>
-                        <p>
+                       </b>
+                        <p class="text-justify">
                             &nbsp; Meskipun Piagam Jakarta telah disepakati, sempat muncul perdebatan terkait sila pertama
                             yang berbunyi “Ketuhanan, dengan kewajiban menjalankan syariat Islam bagi
                             pemeluk-pemeluknya”. Kritikan datang dari wakil-wakil Protestan dan Katolik dari wilayah

@@ -13,7 +13,7 @@
                     <div class="inner-card p-3">
                         <div class="col-12">
                             <b><u><h6>A.CAPAIAN PEMBELAJARAN(CP)</h6></u></b>
-                            <p> &nbsp; Peserta didik mampu mengenal karakter para perumus Pancasila menunjukkan sikap bangga
+                            <p class="text-justify"> &nbsp; Peserta didik mampu mengenal karakter para perumus Pancasila menunjukkan sikap bangga
                                 menjadi anak Indonesia yang memiliki bahasa Indonesia sebagai bahasa persatuan di lingkungan
                                 keluarga, sekolah, dan masyarakat.
                             </p>

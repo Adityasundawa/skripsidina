@@ -41,7 +41,7 @@
                                     class="img-fluid" srcset="">
                             </div>
                         </center>
-                        <p class="mt-3"> Dalam sidang tersebut, tiga orang pembicara, yaitu Mohammad Yamin,
+                        <p class="mt-3 text-justify"> Dalam sidang tersebut, tiga orang pembicara, yaitu Mohammad Yamin,
                             Soepomo,
                             dan Soekarno, mengusulkan lima dasar negara.
                         </p>
@@ -94,6 +94,7 @@
                                      srcset="">
                             </div>
                         </div>
+                        <hr>
                         <center>
                             <div class="col-lg-6 mt-4">
                                 <img src="assets/images/bpupki/pidato.png" alt="" class="img-fluid"
