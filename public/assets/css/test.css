@@ -1,0 +1,66 @@
+body {
+    background-image: url('../images/bg-utama.jpg');
+    background-attachment: fixed; /* This makes the background fixed */
+    background-size: cover; /* This ensures the image covers the entire background */
+    background-position: center; /* This centers the image */
+}
+
+
+@font-face {
+    font-family: 'Gagalin';
+    src: url('../font/Gagalin-Regular.otf') format('opentype');
+}
+h1 {
+    font-family: 'Gagalin', sans-serif;
+    font-size: 3em;
+    color: #ffffff;
+    text-align: center;
+    opacity: 0; /* Awalnya tidak terlihat */
+    animation: slideIn 1.5s ease-out forwards; /* Animasi selama 1.5 detik */
+  }
+  /* Definisi keyframes untuk animasi */
+  @keyframes slideIn {
+    0% {
+        transform: translateY(-50px); /* Mulai dari posisi lebih atas */
+        opacity: 0; /* Tidak terlihat */
+    }
+    100% {
+        transform: translateY(0); /* Kembali ke posisi awal */
+        opacity: 1; /* Terlihat sepenuhnya */
+    }
+  }
+  
+
+
+.text-col-10 {
+    font-size: 18px;
+    color: white;
+}
+
+/* Styles for larger screens (e.g., tablets and desktops) */
+@media (min-width: 768px) {
+    .images-col-2 {
+        width: 124%;
+    }
+
+    .text-col-10 {
+        font-size: 30px;
+    }
+}
+@media (min-width: 992px) {
+    .row > div {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+
+.img-fluid-menu{
+    width: 265px;
+    height: auto;
+}
+.inner-card {
+  border: 2px dashed #ff913f; /* Border putus-putus */
+  border-radius: 10px; /* Lengkungan pada sudut */
+  padding: 15px; /* Padding untuk isi card */
+}

@@ -1,0 +1,170 @@
+  /* Style untuk body */
+  body {
+    background-image: url('../images/bg-2.jpg');
+    background-size: cover; /* Menjaga agar gambar latar belakang menutupi seluruh layar */
+    background-position: center; /* Memusatkan gambar latar belakang */
+    background-attachment: fixed; /* Menjaga gambar tetap pada tempatnya saat di-scroll */
+    background-repeat: no-repeat; /* Menghindari gambar berulang */
+    height: 100vh; /* Menyeting tinggi body menjadi tinggi layar */
+    margin: 0; /* Menghilangkan margin default */
+    display: flex; /* Membuat elemen di dalam body fleksibel */
+    flex-direction: column; /* Mengatur elemen secara vertikal */
+    justify-content: center; /* Memusatkan konten secara vertikal */
+    align-items: center; /* Memusatkan konten secara horizontal */
+    position: relative; /* Menjaga elemen berada dalam konteks relatif */
+    overflow: hidden; /* Menghapus scroll untuk semua arah */
+  }
+
+  html, body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden; /* Menghapus scroll secara keseluruhan */
+  }
+
+  /* Menambahkan gambar bawah1.png sebagai latar belakang penuh halaman */
+  .full-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../images/bawah1.png');
+    background-size: cover; /* Memastikan gambar menutupi seluruh halaman */
+    background-position: center; /* Memusatkan gambar */
+    z-index: 1; /* Menjadikan gambar berada di bawah semua elemen */
+  }
+
+  /* Gambar p1.png di tengah halaman */
+  .middle-image {
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    width: 524px;
+    height: auto;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+    animation: riseUp 2s ease-out forwards;
+  }
+
+
+  .left-image {
+  position: absolute;
+  top: 44%;
+  left: 43%;
+  width: 366px;
+  height: auto;
+  transform: translate(-50%, -50%);
+  z-index: -3;
+  animation: riseUp 2s ease-out forwards;
+}
+
+
+.right-image {
+  position: absolute;
+  top: 54%;
+  left: 79%;
+  width: 373px;
+  height: auto;
+  transform: translate(-50%, -50%);
+  z-index: -3;
+  animation: riseUp 2s ease-out forwards;
+}
+  @keyframes riseUp {
+    0% {
+      transform: translate(-50%, 50%); /* Gambar dimulai di bawah */
+    }
+    100% {
+      transform: translate(-50%, -50%); /* Gambar berakhir di posisi tengah */
+    }
+  }
+
+  @media (max-width: 768px) {
+    body {
+      background-attachment: scroll; /* Memastikan gambar mengikuti scroll pada perangkat kecil */
+    }
+  }
+
+  .vampiro-one-regular {
+    font-family: "Vampiro One", serif;
+    font-size: 2rem;
+    color: white;
+    z-index: 2;
+    text-shadow:
+      2px 2px 0 #bc473d,
+      4px 4px 0 #bc473d,
+      6px 6px 0 rgba(188, 71, 61, 0.5);
+    animation: echoEffect 1.5s infinite;
+  }
+
+  @keyframes echoEffect {
+    0% {
+      text-shadow:
+        2px 2px 0 #bc473d,
+        4px 4px 0 #bc473d,
+        6px 6px 0 rgba(188, 71, 61, 0.5);
+    }
+
+    50% {
+      text-shadow:
+        3px 3px 5px #bc473d,
+        5px 5px 10px #bc473d,
+        8px 8px 15px rgba(188, 71, 61, 0.3);
+    }
+
+    100% {
+      text-shadow:
+        2px 2px 0 #bc473d,
+        4px 4px 0 #bc473d,
+        6px 6px 0 rgba(188, 71, 61, 0.5);
+    }
+  }
+
+  .vampiro-one-regular {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .button-container {
+    position: absolute;
+    bottom: 18%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1;
+  }
+
+  .play-button {
+    background-image: url('../images/play.png');
+    background-size: cover;
+    background-position: center;
+    width: 100px;
+    height: 100px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    outline: none;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .play-button:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.5);
+  }
+
+  .play-button:active {
+    transform: scale(0.9);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  @media (max-width: 768px) {
+    .vampiro-one-regular {
+      font-size: 6rem;
+    }
+
+    .play-button {
+      width: 80px;
+      height: 80px;
+    }
+  }
