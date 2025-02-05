@@ -34,7 +34,7 @@ h1 {
 
 .text-col-10 {
   font-size: 18px;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 /* Styles for larger screens (e.g., tablets and desktops) */
@@ -178,7 +178,7 @@ h1 {
 /* Media query untuk perangkat seluler */
 @media screen and (max-width: 767px) {
   .img-panah {
-    width: 80px; 
+    width: 80px;
     animation-name: slideInFromBottom; /* Menggunakan slide-in */
   }
 
@@ -193,6 +193,12 @@ h1 {
 .text-pahlawan{
   font-size: 12px;
 }
+
+.text-pengembang{
+    font-size: 15px;
+  }
+
+
 
 @keyframes fadeIn {
   from {
@@ -237,4 +243,24 @@ h6 {
   100% {
     border-color: #3498db; /* Back to blue */
   }
+}
+
+.custom-card-soal {
+    transition: background-color 0.3s, border-color 0.3s;
+    background-color: #fff5dc;
+    border: 7px solid #b2783f;
+    width: auto;
+    height: auto;
+}
+
+.custom-card-soal.correct {
+    background-color: #4CAF50; /* Hijau untuk benar */
+    border-color: #388E3C;
+    color: white;
+}
+
+.custom-card-soal.incorrect {
+    background-color: #F44336; /* Merah untuk salah */
+    border-color: #D32F2F;
+    color: white;
 }

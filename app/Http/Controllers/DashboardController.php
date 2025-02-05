@@ -44,6 +44,13 @@ class DashboardController extends Controller
         return view('dashboard.tokoh');
      }
 
+     public function profil(){
+        return view('dashboard.profil');
+     }
 
+     public function soal(){
+        return view('dashboard.soal');
+     }
 
 }
+
