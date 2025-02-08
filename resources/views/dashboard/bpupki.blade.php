@@ -21,7 +21,7 @@
                             <h6>Pembentukan BPUPKI</h6>
                         </u>
                         <p class="text-justify">
-                            &nbsp; Proses rumusan Pancasila dimulai saat sidang pertama BPUPKI. BPUPKI adalah Badan
+                            &nbsp;  &nbsp;  &nbsp; Proses rumusan Pancasila dimulai saat sidang pertama BPUPKI. BPUPKI adalah Badan
                             Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia atau bahasa jepangnya
                             Dokuritsu
                             Junbi Chosa-kai yang dibentuk oleh Jepang pada 29 April 1945 atau 28 Mei 1945 di
@@ -41,7 +41,7 @@
                                     class="img-fluid" srcset="">
                             </div>
                         </center>
-                        <p class="mt-3 text-justify"> Dalam sidang tersebut, tiga orang pembicara, yaitu Mohammad Yamin,
+                        <p class="mt-3 text-justify">Dalam sidang tersebut, tiga orang pembicara, yaitu Mohammad Yamin,
                             Soepomo,
                             dan Soekarno, mengusulkan lima dasar negara.
                         </p>
@@ -101,7 +101,7 @@
                                     srcset="">
                             </div>
                         </center>
-                        <p class="text-justify mt-3"> &nbsp; Dalam pidato tersebut, Bung Karno menguraikan lima prinsip
+                        <p class="text-justify mt-3"> &nbsp;  &nbsp; Dalam pidato tersebut, Bung Karno menguraikan lima prinsip
                             dasar yang menjadi pedoman
                             dalam kehidupan berbangsa dan bernegara. Selain itu, pidato ini juga menjadi titik
                             awal perumusan dasar negara

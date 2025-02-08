@@ -9,33 +9,25 @@
 </div>
 <div class="container">
     <div class="col-12">
-        <div class="card custom-card" style="background-color: #fff5dc; border: 7px solid #b2783f;">
+        <div class="card custom-card" style="background-color: #fff5dc; border: 7px solid #cfac89;">
             <div class="card-body">
 
-                <div class="card">
+                <div class="card"  style="background-color: #ffffff; border: 7px solid #cc7f0a;">
                     <div class="card-body">
                         <div class="row">
                             <div class="col-4">
                               <img src="{{ url('/') }}/assets/images/photo_2025-02-04_20-06-14.jpg" class="img-fluid" alt="" srcset="">
                             </div>
-                            <div class="col-8 text-center  text-pengembang">
+                            <div class="col-8 text-center  text-pengembang" >
                                 Dina Setyoningsih <br>NIM 210151601694 <br>S1 Pendidikan Guru Sekolah Dasar <br><br>
 
                             </div>
                         </div>
-
-
                     </div>
-                    <div class="card-footer text-center">
+                    <div class="card-footer text-center" style="background-color: #cc7f0a; color: #ffffff;border: 7px solid #cc7f0a;"">
                         Universitas Negeri Malang
                     </div>
                 </div>
-
-
-
-
-
-
                 <div class="row mt-5">
                     <h5 class="text-center mb-4">
                         Dosen Pembimbing

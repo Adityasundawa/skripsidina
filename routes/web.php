@@ -3,6 +3,7 @@
 use Illuminate\Support\Facades\Route;
 
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\SoalController;
 
 Route::get('/', [DashboardController::class, 'index']);
 Route::get('/menu', [DashboardController::class, 'menu'])->name('menu');
@@ -26,7 +27,7 @@ Route::get('/profil', [DashboardController::class, 'profil'])->name('profil');
 
 
 Route::get('/soal', [DashboardController::class, 'soal'])->name('soal');
-
+Route::get('/input/nama', [SoalController::class, 'nama'])->name('soal.nama');
 
 
 

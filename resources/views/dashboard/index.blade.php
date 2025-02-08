@@ -24,7 +24,5 @@
   <a href="{{ route('menu') }}"><div class="button-container">
     <button class="play-button"></button>
   </div></a>
-
-
 </body>
 </html>

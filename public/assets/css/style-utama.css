@@ -1,6 +1,5 @@
   /* Style untuk body */
   body {
-    background-image: url('../images/bg-2.jpg');
     background-size: cover; /* Menjaga agar gambar latar belakang menutupi seluruh layar */
     background-position: center; /* Memusatkan gambar latar belakang */
     background-attachment: fixed; /* Menjaga gambar tetap pada tempatnya saat di-scroll */
@@ -23,52 +22,126 @@
 
   /* Menambahkan gambar bawah1.png sebagai latar belakang penuh halaman */
   .full-background {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url('../images/bawah1.png');
+
     background-size: cover; /* Memastikan gambar menutupi seluruh halaman */
     background-position: center; /* Memusatkan gambar */
     z-index: 1; /* Menjadikan gambar berada di bawah semua elemen */
   }
 
   /* Gambar p1.png di tengah halaman */
-  .middle-image {
+
+
+  /* Default styling for mobile-first approach */
+.middle-image, .left-image, .right-image {
     position: absolute;
-    top: 50%;
-    left: 43%;
-    width: 524px;
-    height: auto;
     transform: translate(-50%, -50%);
-    z-index: 0;
     animation: riseUp 2s ease-out forwards;
   }
 
+  /* Styling khusus untuk desktop */
+  @media (min-width: 1024px) {
 
-  .left-image {
-  position: absolute;
-  top: 44%;
-  left: 43%;
-  width: 366px;
-  height: auto;
-  transform: translate(-50%, -50%);
-  z-index: -3;
-  animation: riseUp 2s ease-out forwards;
-}
+    body{
+        background-image: url('../images/bg-utama-detskop.jpg');
+    }
+    .middle-image {
+        top: 45%;
+        left: 50%;
+        width: 549px  !important;
+        height: auto;
+        z-index: 0;
+    }
+
+    .left-image {
+        top: 47%;
+        left: 47%;
+        width: 577px !important;
+        height: auto;
+        z-index: -3;
+    }
+
+    .right-image {
+        top: 57%;
+        left: 70%;
+        width: 529px !important;
+        height: auto;
+        z-index: -3;
+    }
+    .full-background{
+        position: absolute;
+        top: -414px;
+        left: 0;
+        width: 100%;
+        height: 167%;
+        background-image: url(../images/bawah1.png);
+    }
+    .vampiro-one-regular{
+        font-size: 9rem;
+        top: 45%;
+        left: 53%;
+    }
+  }
+
+  /* Optional: Untuk layar ultra-wide seperti 1440px ke atas */
+  @media (min-width: 1440px) {
+    .middle-image {
+      width: 600px; /* Lebih besar untuk layar lebih lebar */
+    }
+
+    .left-image {
+      width: 400px;
+    }
+    .right-image {
+      width: 420px;
+    }
+
+  }
 
 
-.right-image {
-  position: absolute;
-  top: 54%;
-  left: 79%;
-  width: 373px;
-  height: auto;
-  transform: translate(-50%, -50%);
-  z-index: -3;
-  animation: riseUp 2s ease-out forwards;
-}
+
+  @media (max-width: 768px) {
+    body{
+        background-image: url('../images/bg-2.jpg');
+    }
+    .vampiro-one-regular{
+        font-size: 2rem;
+        top: 50%;
+        left: 50%;
+    }
+    .full-background{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('../images/bawah1.png');
+    }
+    .middle-image {
+        top: 50%;
+        left: 43%;
+        width: 524px;
+      transform: translate(-50%, -50%);
+    }
+
+    .left-image {
+        top: 44%;
+        left: 43%;
+        width: 366px !important;
+        height: auto;
+      width: 200px; /* Adjusted width */
+      transform: translate(-50%, -50%);
+    }
+
+    .right-image {
+        top: 54%;
+        left: 79%;
+        width: 373px;
+        height: auto;
+      transform: translate(-50%, -50%);
+    }
+  }
+
+
   @keyframes riseUp {
     0% {
       transform: translate(-50%, 50%); /* Gambar dimulai di bawah */
@@ -86,7 +159,6 @@
 
   .vampiro-one-regular {
     font-family: "Vampiro One", serif;
-    font-size: 2rem;
     color: white;
     z-index: 2;
     text-shadow:
@@ -121,8 +193,7 @@
 
   .vampiro-one-regular {
     position: absolute;
-    top: 50%;
-    left: 50%;
+
     transform: translateX(-50%);
   }
 

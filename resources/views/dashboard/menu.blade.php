@@ -11,6 +11,10 @@
 </head>
 
 <body>
+    <a href="javascript:history.back()" style="position: absolute; top: 10px; left: 10px;">
+        <img src="assets/images/LOGO PETUNJUK/icon-keluar.png" alt="Icon" class="img-fluid" style="width: 50px; height: 40px;">
+    </a>
+
     <div class="d-flex justify-content-center mt-5">
         <h1>Menu Utama</h1>
     </div>
@@ -31,11 +35,15 @@
                         <a href="{{ route('materi') }}"><img src="{{ url('/') }}/assets/images/button/3.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
                      </div>
                      <div class="col-lg-4">
-                        <img src="{{ url('/') }}/assets/images/button/4.png" alt="Contoh Gambar" class="img-fluid-menu">
+                     <a href="{{ route('soal.nama') }}">    <img src="{{ url('/') }}/assets/images/button/4.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
                      </div>
                      <div class="col-lg-4">
-                        <img src="{{ url('/') }}/assets/images/button/5.png" alt="Contoh Gambar" class="img-fluid-menu">
+                        <a href="{{ route('profil') }}"> <img src="{{ url('/') }}/assets/images/button/5.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
                      </div>
+                     <div class="col-lg-4">
+                        <a href="{{ route('profil') }}"> <img src="{{ url('/') }}/assets/images/button/6.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
+                     </div>
+
                     </div>
                 </div></center>
 

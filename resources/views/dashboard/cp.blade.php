@@ -13,17 +13,15 @@
                     <div class="inner-card p-3">
                         <div class="col-12">
                             <b><u><h6>A.CAPAIAN PEMBELAJARAN(CP)</h6></u></b>
-                            <p class="text-justify"> &nbsp; Peserta didik mampu mengenal karakter para perumus Pancasila menunjukkan sikap bangga
-                                menjadi anak Indonesia yang memiliki bahasa Indonesia sebagai bahasa persatuan di lingkungan
-                                keluarga, sekolah, dan masyarakat.
-                            </p>
+                            <p class="text-justify"> &nbsp;  &nbsp; Peserta didik memahami kronologi sejarah kelahiran Pancasila, meneladani sikap para perumus Pancasila dan menerapkan di lingkungan masyarakat; menghubungkan sila-sila dalam Pancasila sebagai suatu kesatuan yang utuh, menguraikan makna nilai-nilai Pancasila sebagai dasar negara, pandangan hidup, dan ideologi bangsa dan negara
                         </div>
-                        <div class="col-12 mt-5">
+                        <div class="col-12 mt-5 text-justify">
                             <b><u><h6>B.TUJUAN PEMBELAJARAN(TP)</h6></u></b>
-                            <p>1.Menjelaskan Sejarah perumusan Pancasila</p>
-                            <p>2.Menceritakan peran para perumus Pancasila</p>
-                            <p>3.Mengenal karakter para perumus Pancasila</p>
-                            <p>4.Meneladani karakter para perumus Pancasila</p>
+                            <p>1.Peserta didik mampu menjelaskan kronologi sejarah kelahiran panasila melalui penggunaan multimedia interaktif dengan benar.</p>
+                            <p>2.Peserta didik mampu mengenal karakter tokoh nasional melalui penggunaan multimedia interaktif dengan baik.
+                            </p>
+                            <p>3.Peserta didik mampu meneladani sikap para perumus pancasila melalui penggunaan multimedia interaktif dengan baik.
+                            </p>
                         </div>
                     </div>
                 </div>

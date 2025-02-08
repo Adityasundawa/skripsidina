@@ -9,6 +9,9 @@
     <link rel="stylesheet" href="{{ url('/') }}/assets/css/style.css">
 </head>
 <body>
+    <a href="javascript:history.back()" style="position: absolute; top: 10px; left: 10px;">
+        <img src="assets/images/LOGO PETUNJUK/icon-keluar.png" alt="Icon" class="img-fluid" style="width: 50px; height: 40px;">
+    </a>
     <div class="d-flex justify-content-center mt-5">
         <h1>Petunjuk</h1>
     </div>

@@ -4,7 +4,7 @@
 
 @section('content')
 <div class="d-flex justify-content-center mt-5">
-    <h1>Soal</h1>
+    <h1>Soal 1/20</h1>
 </div>
 <div class="container">
     <div class="col-12">
@@ -72,4 +72,28 @@
         }
     }
 </script>
+@endsection
+
+
+@section('custom-js')
+<script>
+    document.getElementById('soal-a').addEventListener('click', function() {
+      Swal.fire({
+        title: 'HEBAT!',
+        text: 'JAWABAN KAMU BENAR',
+        icon: 'success',
+        confirmButtonText: 'Soal Berikutnya -->'
+      });
+    });
+
+    document.getElementById('soal-b').addEventListener('click', function() {
+      Swal.fire({
+        title: 'O...oooo!',
+        text: 'JAWABAN KAMU BELUM TEPAT',
+        icon: 'error',
+        confirmButtonText: 'Soal Berikutnya -->'
+      });
+    });
+  </script>
+
 @endsection

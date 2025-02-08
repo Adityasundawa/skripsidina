@@ -13,37 +13,20 @@
             <div class="card-body">
                 <div class="inner-card p-3">
                     <div class="row">
-                        <p class="text-justify"> &nbsp; Proses perumusan Pancasila sebagai dasar negara Indonesia
-                            melibatkan banyak diskusi dan kerja sama antara para pemimpin bangsa. Tokoh-tokoh
-                            nasional yang terlibat memiliki pandangan dan nilai-nilai penting untuk menyatukan
-                            Indonesia, yang terdiri dari berbagai suku, agama, dan golongan. Karakter para tokoh ini
-                            sangat penting dalam membentuk dasar negara yang bisa diterima semua orang.</p>
+                        <p class="text-justify"> &nbsp;  &nbsp; Proses perumusan Pancasila sebagai dasar negara Indonesia melibatkan banyak diskusi dan kerja sama antara para pemimpin bangsa. Tokoh-tokoh nasional yang terlibat memiliki ide dan nilai-nilai penting untuk menyatukan Indonesia, yang terdiri dari berbagai suku, agama, dan golongan. Karakter baik para tokoh ini sangat penting agar dasar negara bisa diterima oleh semua orang.
+                        </p>
                         <div class="col-lg-3">
                             <h6><u>Toleransi </u></h6>
                         </div>
-                        <p class="text-justify"> &nbsp; Toleransi yang ditunjukkan oleh para tokoh nasional seperti
-                            Soekarno dan Moh. Hatta merupakan salah satu aspek penting dalam proses perumusan
-                            Pancasila. Mereka berhasil menunjukkan sikap terbuka dan saling menghargai saat
-                            menghadapi ketidaksetujuan dari wakil-wakil Kristen dan Katolik mengenai permasalahan
-                            pada sila pertama Pancasila. Mereka mengedepankan semangat persatuan dan kesatuan,
-                            sehingga perbedaan pandangan tidak menjadi penghalang, melainkan peluang untuk mencapai
-                            kesepakatan yang lebih baik. <br>
-                            &nbsp; Toleransi yang ditunjukkan oleh para tokoh nasional mencerminkan sila pertama Pancasila,
-                            yaitu "Ketuhanan yang Maha Esa." Dengan menghargai perbedaan agama dan pandangan, mereka
-                            menciptakan kerukunan dan saling menghormati antarumat beragama, yang merupakan esensi
-                            dari nilai ketuhanan.
+                        <p class="text-justify"> &nbsp; Para tokoh seperti Soekarno dan Moh. Hatta menunjukkan sikap toleransi yang sangat baik. Dalam proses membuat Pancasila, mereka saling menghargai pendapat satu sama lain, meskipun ada perbedaan. Mereka juga mendengarkan pendapat orang lain saat teman-teman yang beragama Kristen dan Katolik, saat ada perbedaan tentang sila pertama Pancasila yang awalnya berbunyi “Ketuhanan, dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya.” <br>
+                            &nbsp; Toleransi yang ditunjukkan oleh para tokoh ini mencerminkan sila pertama Pancasila, yaitu "Ketuhanan yang Maha Esa." Dengan menghargai perbedaan agama dan pendapat, mereka menciptakan kerukunan dan saling menghormati antarumat beragama, yang merupakan inti dari nilai ketuhanan.
                         </p>
                         <div class="col-lg-3">
                             <h6><u>Kepemimpinan </u></h6>
                         </div>
-                        <p class="text-justify"> &nbsp; Karakter kepemimpinan ditunjukkan oleh Soekarno melalui visi yang
-                            jelas untuk Indonesia merdeka. Ia berhasil
-                            menyatukan berbagai orang dari berbagai latar belakang, seperti dalam pidato-pidatonya
-                            yang mengajak semua orang untuk bersatu demi kemerdekaan. Begitu juga dengan Mohammad
-                            Hatta yang menegaskan pentingnya musyawarah dan pengambilan keputusan bersama. Ia
-                            selalu mendorong dialog antara pemimpin dan masyarakat agar bisa mencapai kesepakatan.
+                        <p class="text-justify"> &nbsp;  &nbsp; Soekarno adalah pemimpin yang memiliki visi yang jelas untuk Indonesia merdeka. Ia berhasil mengajak banyak orang dari berbagai latar belakang untuk bersatu. Mohammad Hatta juga selalu menekankan pentingnya musyawarah dan berdialog dengan masyarakat agar semua orang bisa ikut berpartisipasi. Kepemimpinan yang baik seperti ini sesuai dengan sila kedua, "Kemanusiaan yang Adil dan Beradab," yang mengedepankan keadilan dan kemanusiaan.
                             <br>
-                             &nbsp; Kepemimpinan yang terbuka, seperti yang ditunjukkan oleh Soekarno dan Hatta, sejalan
+                             &nbsp;Kepemimpinan yang terbuka, seperti yang ditunjukkan oleh Soekarno dan Hatta, sejalan
                             dengan sila kedua, "Kemanusiaan yang Adil dan Beradab." Pemimpin yang baik harus mampu
                             mempersatukan masyarakat dan mengedepankan nilai-nilai keadilan serta kemanusiaan dalam
                             setiap keputusan.
@@ -56,36 +39,33 @@
                         <div class="col-lg-3">
                             <h6 class="mt-5"><u>Persatuan</u></h6>
                         </div>
-                        <p class="text-justify"> &nbsp; Semangat persatuan muncul dari anggota BPUPKI yang bersatu dalam perbedaan untuk
-                            mencapai kemerdekaan. Mereka mencurahkan tenaga dan pemikiran demi cita-cita bersama,
-                            mewujudkan Indonesia Merdeka tanpa membiarkan perbedaan menghalangi kerja sama. Meskipun
-                            memiliki beragam pandangan, para anggota mampu bersatu untuk mencapai tujuan yang sama.
-                            Perbedaan tidak menjadi penghalang untuk bekerja sama, saling membantu, dan hidup rukun.
+                        <p class="text-justify"> &nbsp;  &nbsp;Saat menghadapi ketidaksetujuan dari teman-teman yang beragama Kristen dan Katolik tentang sila pertama Pancasila, para tokoh tetap mengutamakan semangat persatuan dan kesatuan. Mereka tidak membiarkan perbedaan pendapat menjadi penghalang, tetapi justru melihatnya sebagai kesempatan untuk mencapai kesepakatan.
                             <br>
-                            &nbsp; Proses perumusan Pancasila menunjukkan pentingnya persatuan, yang tercermin dalam sila
-                            "Persatuan Indonesia" sebagai inti dari Pancasila. Perbedaan tersebut justru memperkaya
-                            interaksi dan saling pemahaman di antara mereka
+                            &nbsp; Semangat persatuan terlihat jelas dari anggota BPUPKI yang bekerja sama meskipun memiliki pendapat yang berbeda. Mereka berusaha keras untuk mewujudkan Indonesia Merdeka tanpa membiarkan perbedaan menghalangi kerja sama. Proses membuat Pancasila menunjukkan betapa pentingnya persatuan, yang tercermin dalam sila "Persatuan Indonesia" sebagai bagian utama dari Pancasila.
 
                         </p>
 
                         <div class="col-lg-5">
                             <h6><u>Mendengarkan dan menghargai pendapat orang lain  </u></h6>
                           </div>
-                          <p class="text-justify"> &nbsp; Tokoh-tokoh perumus Pancasila, seperti Mohammad Yamin dan Soepomo, menunjukkan sikap mendengar dan menghargai pendapat orang lain. Mereka tidak hanya berbicara tentang pendapat mereka sendiri, tetapi juga mendengarkan orang lain. Hal ini membuat suasana diskusi menjadi baik dan bermanfaat. <br>  &nbsp; Sikap ini mencerminkan nilai musyawarah yang ada dalam sila keempat Pancasila, yaitu "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan." Dengan berdiskusi secara terbuka, mereka bisa membuat keputusan yang lebih bijaksana dan diterima oleh semua orang.
+                          <p class="text-justify"> &nbsp;  Tokoh-tokoh seperti Mohammad Yamin dan Soepomo menunjukkan sikap yang baik dengan mendengarkan pendapat orang lain. Mereka tidak hanya menceritakan pendapat mereka sendiri, tetapi juga menghargai pendapat orang lain. Sikap ini mencerminkan nilai musyawarah yang ada dalam sila keempat Pancasila, "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan."
+
                         </p>
                         <div class="col-lg-5">
                             <h6><u> Rela Berkorban
                             </u></h6>
                           </div>
-                          <p class="text-justify"> &nbsp; Proses perumusan Pancasila membutuhkan banyak korban, termasuk waktu, tenaga, dan kompromi. Para tokoh nasional menunjukkan rela berkorban demi kebaikan bangsa dan negara. Mereka siap melakukan pengorbanan agar Pancasila dapat menjadi dasar negara yang kukuh dan stabil
+                          <p class="text-justify"> &nbsp;  Para tokoh yang merumuskan Pancasila rela mengorbankan waktu dan tenaga mereka untuk kebaikan bangsa. Mereka siap berkorban supaya Pancasila bisa menjadi dasar negara yang kuat dan kokoh. Artinya, mereka bekerja keras dan tidak mengeluh demi masa depan Indonesia yang lebih baik.
+
                         </p>
 
                         <div class="col-lg-5">
-                            <h6><u>     Menerima dan melaksanakan keputusan bersama
+                            <h6><u>Menerima dan melaksanakan keputusan bersama
 
                             </u></h6>
                           </div>
-                          <p class="text-justify"> &nbsp; Tokoh tokoh perumus Pancasila juga hadir dan membahas sesuatu hingga mencapai kesepakatan atau keputusan. Keputusan ini harus diambil oleh semua pihak dengan ikhlas dan terbuka meski tidak sesuai dengan pendapat pribadi.
+                          <p class="text-justify"> &nbsp; Tokoh-tokoh perumus Pancasila selalu berusaha mencapai kesepakatan. Mereka mau menerima keputusan bersama meskipun tidak sesuai dengan pendapat pribadi. Ini menunjukkan sikap dewasa dan komitmen untuk kebaikan bersama.
+
                         </p>
 
                         <div class="col-lg-5">
@@ -93,9 +73,10 @@
 
                             </u></h6>
                           </div>
-                          <p class="text-justify"> &nbsp; Proses perumusan Pancasila oleh BPUPKI ditempuh melalui cara musyawarah. Melalui musyawarah tersebut, tercermin semangat kebersamaan dalam mencapai suatu kesepakatan. Dalam proses ini, beberapa tokoh penting seperti Bung Karno, Muhammad Yamin, dan Soepomo, terlibat aktif dengan menyumbangkan gagasan, bekerja sama, dan saling mendukung untuk merumuskan dasar negara. Musyawarah ini menunjukkan nilai demokrasi dengan setiap tokoh diberi kesempatan menyampaikan pandangan.
+                          <p class="text-justify"> &nbsp;  &nbsp;  Proses perumusan Pancasila dilakukan dengan cara musyawarah. Melalui musyawarah tersebut, tercermin semangat kebersamaan dalam mencapai suatu kesepakatan karena semua tokoh diberi kesempatan untuk berbicara dan menyampaikan pendapat mereka
                             <br>
-                            &nbsp; Selain itu, ketika rakyat Indonesia timur yang  beragama non-Islam merasa keberatan dengan sila pertama, Mohammad Hatta mengambil langkah penting dengan menemui tokoh-tokoh agama untuk mengadakan musyawarah lebih lanjut. Bung Hatta berupaya mencari solusi agar semua masyarakat dapat menerima dasar negara yang sedang dirumuskan. Langkah ini juga mencerminkan pentingnya dialog dan kompromi untuk menjaga persatuan dan memastikan Pancasila diterima oleh seluruh masyarakat Indonesia.
+                            &nbsp;   &nbsp; Selain itu, ketika teman-teman dari Indonesia timur yang merasa tidak setuju dengan sila pertama, Mohammad Hatta segera menemui tokoh-tokoh agama untuk berdialog lebih lanjut. Ia berusaha mencari solusi agar semua orang bisa menerima dasar negara yang sedang dirumuskan. Ini menunjukkan pentingnya dialog dan kompromi untuk menjaga persatuan dan memastikan Pancasila diterima oleh semua masyarakat Indonesia
+
                            </p>
 
                       <img src="assets/images/materi/musyararh.png" alt="" class="img-fluid" srcset="">

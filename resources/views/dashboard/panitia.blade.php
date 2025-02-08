@@ -19,7 +19,7 @@
                                 Pembentukan Panitia 9
                             </h6>
                         </u>
-                        <p class="text-justify"> &nbsp; Setelah sidang pertama BPUPKI (29 Mei - 1 Juni 1945) berhenti untuk
+                        <p class="text-justify"> &nbsp;  &nbsp; Setelah sidang pertama BPUPKI (29 Mei - 1 Juni 1945) berhenti untuk
                             sementara, kemudian dibentuk panitia sembilan orang yang diketuai oleh Ir. Soekarno yang
                             secara khusus membahas dasar negara dan menyusun naskah yang akan menjadi dasar negara
                             Indonesia Merdeka.
@@ -145,7 +145,7 @@
                         </center>
 
                         <p class="mt-2 text-justify">
-                            &nbsp; Pada 22 Juni 1945, Panitia Sembilan menghasilkan rumusan yang disebut Piagam Jakarta
+                            &nbsp;  &nbsp; Pada 22 Juni 1945, Panitia Sembilan menghasilkan rumusan yang disebut Piagam Jakarta
                             atau Jakarta Charter. Piagam Jakarta memainkan peran penting dalam proses perumusan
                             Pancasila dan Undang-undang Dasar 1945. Piagam ini berisi lima sila sebagai dasar
                             negara:
@@ -165,7 +165,7 @@
                         </p>
                        </b>
                         <p class="text-justify">
-                            &nbsp; Meskipun Piagam Jakarta telah disepakati, sempat muncul perdebatan terkait sila pertama
+                            &nbsp;  &nbsp; Meskipun Piagam Jakarta telah disepakati, sempat muncul perdebatan terkait sila pertama
                             yang berbunyi “Ketuhanan, dengan kewajiban menjalankan syariat Islam bagi
                             pemeluk-pemeluknya”. Kritikan datang dari wakil-wakil Protestan dan Katolik dari wilayah
                             Indonesia timur. Menanggapi keberatan tersebut, para tokoh pendiri bangsa bermusyawarah
