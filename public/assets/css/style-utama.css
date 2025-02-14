@@ -121,6 +121,7 @@
         left: 43%;
         width: 524px;
       transform: translate(-50%, -50%);
+              z-index: 0;
     }
 
     .left-image {
@@ -130,6 +131,7 @@
         height: auto;
       width: 200px; /* Adjusted width */
       transform: translate(-50%, -50%);
+      z-index: -3;
     }
 
     .right-image {
@@ -138,6 +140,7 @@
         width: 373px;
         height: auto;
       transform: translate(-50%, -50%);
+      z-index: -3;
     }
   }
 
