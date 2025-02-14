@@ -25,11 +25,11 @@
                         </p>
                          <div class="col-12 col-lg-12">
 
-                            <iframe width="100%" height="500px" src="https://www.youtube.com/embed/rP3bp0u0dGw?si=lY6j9GThj6NGtZ5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <iframe width="100%" height="500px" src="https://www.youtube.com/embed/U96UsWa4xQE?si=ARBZvv_LMXAa_m_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
                          </div>
                          <p class="text-justify mt-2"> &nbsp; Pada tanggal 18 Agustus 1945 sehari setelah proklamasi kemerdekaan PPKI mengadakan sidang untuk membahas masalah rancangan pembukaan Undang-undang Dasar. Mereka membahas kalimat “Ketuhanan dengan kewajiban menjalankan syariat islam bagi pemeluk-pemeluknya”. Adanya kalimat tersebut pemeluk agama lain yang berada di daerah Indonesia timur merasa keberatan. Demi persatuan, PPKI melakukan pembicaraan lebih lanjut dan akhirnya sepakat mengubah sila pertama menjadi “Ketuhanan yang Maha Esa,” yang lebih terbuka dan dapat diterima oleh semua rakyat Indonesia, tanpa memandang agama. </p>
-                    
+
                          </div>
 
                     </div>
