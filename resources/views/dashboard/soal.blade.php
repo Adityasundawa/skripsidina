@@ -71,15 +71,20 @@
             card.classList.remove('correct', 'incorrect');
         });
 
+        // Load audio files
+        const correctAudio = new Audio("{{ asset('assets/true.mp3') }}"); // path to your true.mp3 file
+        const incorrectAudio = new Audio("{{ asset('assets/false.mp3') }}"); // path to your false.mp3 file
+
         // Tandai card yang diklik
         if (selectedAnswer === correctAnswer) {
             element.classList.add('correct');
+            correctAudio.play(); // Play the correct answer audio
+
             Swal.fire({
                 title: 'HEBAT!',
                 text: 'JAWABAN KAMU BENAR',
                 icon: 'success',
                 allowOutsideClick: false,
-
                 confirmButtonText: '{{ $question->id === $lastQuestion->id ? "Selesai" : "Soal Berikutnya -->" }}',
                 preConfirm: function() {
                     // Jika ini soal terakhir, arahkan ke halaman selesai, jika tidak, lanjutkan ke soal berikutnya
@@ -93,12 +98,13 @@
             });
         } else {
             element.classList.add('incorrect');
+            incorrectAudio.play(); // Play the incorrect answer audio
+
             Swal.fire({
                 title: 'O...oooo!',
                 text: 'JAWABAN KAMU BELUM TEPAT',
                 icon: 'error',
                 allowOutsideClick: false,
-
                 confirmButtonText: '{{ $question->id === $lastQuestion->id ? "Selesai" : "Soal Berikutnya -->" }}',
                 preConfirm: function() {
                     // Jika ini soal terakhir, arahkan ke halaman selesai, jika tidak, lanjutkan ke soal berikutnya
@@ -123,4 +129,5 @@
         });
     }
 </script>
+
 @endsection
