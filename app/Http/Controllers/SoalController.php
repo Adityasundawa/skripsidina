@@ -9,4 +9,8 @@ class SoalController extends Controller
     public function nama(){
         return view('soal.nama');
      }
+     public function selesai(){
+        return 'selesai';
+     }
+
 }

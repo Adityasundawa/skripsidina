@@ -19,21 +19,23 @@
         <div class="card custom-card"
             style="background-color: #fff5dc; border: 7px solid #b2783f; width: auto; height: auto;">
             <div class="card-body">
-                <div class="inner-card p-3" style="max-height: 600px; overflow-y: auto;">
-                     <h5 class="text-center"> SIAPA KAMU??</h5>
-                     <div class="form-group">
-                        <input type="text" class="form-control" style="background-color: #fff5dc; border: 0px;   border-bottom: 2px solid #b2783f; " id="nama" aria-describedby="textHelp" placeholder="Masukan Nama Lengkapmu Disini">
-                      </div>
-                      <div class="form-group mt-2">
-                        <input type="text" class="form-control" style="background-color: #fff5dc; border: 0px;   border-bottom: 2px solid #b2783f;" id="nama" aria-describedby="textHelp" placeholder="Masukan Nomor Absenmu Disini">
-                      </div>
-               <center>
+                <form action="{{ route('soal.show',1) }}" method="get">
+                    @csrf
+                    <div class="inner-card p-3" style="max-height: 600px; overflow-y: auto;">
+                        <h5 class="text-center"> SIAPA KAMU??</h5>
+                        <div class="form-group">
+                           <input type="text" class="form-control" style="background-color: #fff5dc; border: 0px;   border-bottom: 2px solid #b2783f; " name="nama" id="nama" aria-describedby="textHelp" placeholder="Masukan Nama Lengkapmu Disini">
+                         </div>
+                         <div class="form-group mt-2">
+                           <input type="text" class="form-control" style="background-color: #fff5dc; border: 0px;   border-bottom: 2px solid #b2783f;" name="nama_absen" id="nama" aria-describedby="textHelp" placeholder="Masukan Nomor Absenmu Disini">
+                         </div>
+                  <center>
+                   <button class="btn  mt-3 btn-success"><b>MULAI</b></button>
+                  </center>
 
-                <button class="btn  mt-3 btn-success"><b>MULAI</b></button>
-               </center>
 
-
-                </div>
+                   </div>
+                </form>
             </div>
         </div>
 

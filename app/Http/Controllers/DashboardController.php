@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\MultipleChoiceQuestions;
 
 class DashboardController extends Controller
 {
@@ -48,9 +49,61 @@ class DashboardController extends Controller
         return view('dashboard.profil');
      }
 
-     public function soal(){
-        return view('dashboard.soal');
+     public function soal(Request $request,$id)
+     {
+         $question = MultipleChoiceQuestions::find($id);
+         if (!$question) {
+             return 'Soal tidak ditemukan!';
+         }
+
+         if ($id == 1) {
+            session([
+                'nama' => $request['nama'],
+                'nama_absen' => $request['nama_absen']
+            ]);
+
+         }
+         $nextQuestion = MultipleChoiceQuestions::where('id', '>', $id)->orderBy('id')->first();
+
+         $lastQuestion = MultipleChoiceQuestions::orderBy('id', 'desc')->first();
+         $count = MultipleChoiceQuestions::all();
+         $userAnswers = session('user_answers', []);
+
+         return view('dashboard.soal', compact('question', 'nextQuestion', 'lastQuestion','userAnswers','count'));
      }
+
+     public function storeAnswer(Request $request, $id)
+     {
+         // Menyimpan jawaban pengguna dalam session
+         $userAnswers = session('user_answers', []);
+         $userAnswers[$id] = $request->input('answer');
+         session(['user_answers' => $userAnswers]);
+
+         return response()->json(['status' => 'success']);
+     }
+
+
+     public function showFinalScore()
+     {
+         $userAnswers = session('user_answers', []);
+         $correctAnswersCount = 0;
+         $nama = session('nama');
+         $namaAbsen = session('nama_absen');
+         foreach ($userAnswers as $questionId => $answer) {
+             $question = MultipleChoiceQuestions::find($questionId);
+             if ($question && $question->correct_answer === $answer) {
+                 $correctAnswersCount++;
+             }
+         }
+
+         $totalQuestions = MultipleChoiceQuestions::count(); // Total jumlah soal
+
+
+         return view('dashboard.finalscore', compact('correctAnswersCount', 'totalQuestions','nama','namaAbsen'));
+     }
+
+
+
 
 }
 

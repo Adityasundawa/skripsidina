@@ -26,8 +26,12 @@ Route::get('/pengesahan', [DashboardController::class, 'pengesahan'])->name('pen
 Route::get('/profil', [DashboardController::class, 'profil'])->name('profil');
 
 
-Route::get('/soal', [DashboardController::class, 'soal'])->name('soal');
+Route::get('/soal/{id}', [DashboardController::class, 'soal'])->name('soal.show');
 Route::get('/input/nama', [SoalController::class, 'nama'])->name('soal.nama');
+Route::get('/soal/selesai', [SoalController::class, 'selesai'])->name('soal.index');
+Route::get('/final-score', [DashboardController::class, 'showFinalScore'])->name('final.score');
+Route::post('/soal/{id}/answer', [DashboardController::class, 'storeAnswer'])->name('store.answer');
+
 
 
 
