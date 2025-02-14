@@ -27,11 +27,12 @@
                 </div>
               </div>
               <div class="row mt-3">
+
                 <div class="col-6">
-                    <a href="{{ route('soal.nama') }}" class="btn btn-block btn-danger" style="width: 170px">Ulangi</a>
+                    <a href="{{ route('soal.nama') }}" class="btn btn-danger btn-lg btn-block">Ulangi Mengerjakan</a>
                 </div>
                 <div class="col-6">
-                    <a href="{{ route('menu') }}" class="btn btn-block btn-success" style="width: 170px">Kembali Ke Menu</a>
+                    <a href="{{ route('menu') }}" class="btn btn-success btn-lg btn-block">Kembali Ke Menu</a>
                 </div>
               </div>
         </div>
