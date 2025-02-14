@@ -50,10 +50,10 @@
           <h5 class="modal-title" id="modalTitle">Petunjuk!</h5>
 
         </div>
-        <div class="modal-body">
-            Pada halaman ini kamu akan mengerjakan soal latihan dalam bentuk pilihan ganda sebanyak 10 butir soal untuk mengukur pemahamanmu.
-            Pilih jawaban yang kamu anggap paling benar dengan mengklik.
-            Silahkan klik selanjutnya untuk mengerjakan soal latihan ini.
+        <div class="modal-body text-justify">
+            Pada halaman ini kamu akan mengerjakan soal latihan dalam bentuk pilihan ganda sebanyak 20 butir soal untuk mengukur pemahamanmu.
+            Pilih jawaban yang kamu anggap paling benar dengan mengklik. <br>
+            Silahkan klik Oke untuk mengerjakan soal latihan ini. <br>
             Selamat mengerjakan!
         </div>
         <div class="modal-footer">
