@@ -26,6 +26,14 @@
                     <h3 class="text-center mt-2"> {{ $correctAnswersCount * 5 }}</h3>
                 </div>
               </div>
+              <div class="row mt-3">
+                <div class="col-6">
+                    <a href="{{ route('soal.nama') }}" class="btn btn-block btn-danger" style="width: 170px">Ulangi</a>
+                </div>
+                <div class="col-6">
+                    <a href="{{ route('menu') }}" class="btn btn-block btn-success" style="width: 170px">Kembali Ke Menu</a>
+                </div>
+              </div>
         </div>
     </div>
 </div>
