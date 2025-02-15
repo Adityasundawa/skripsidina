@@ -10,7 +10,7 @@ body {
     flex-direction: column; /* Mengatur elemen secara vertikal */
     justify-content: center; /* Memusatkan konten secara vertikal */
     align-items: center; /* Memusatkan konten secara horizontal */
-    position: relative; /* Menjaga elemen berada dalam konteks relatif */
+    position: relative; /* Menjaga elemen berada dalam konteks relatwif */
     overflow: hidden; /* Menghapus scroll untuk semua arah */
   }
 
