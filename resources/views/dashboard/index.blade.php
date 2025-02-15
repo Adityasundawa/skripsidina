@@ -21,6 +21,7 @@
   <img src="assets/images/halaman-utama/1.png" alt="Image P1" class="middle-image">
   <img src="assets/images/halaman-utama/2.png" alt="Image P1" class="right-image">
   <p class="vampiro-one-regular">Bangsa</p>
+  <p class="text-bawah">Bersama Meneladani Para Pahlawan</p>
   <a href="{{ route('menu') }}"><div class="button-container">
     <button class="play-button"></button>
   </div></a>

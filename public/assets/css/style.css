@@ -101,6 +101,10 @@ h1 {
 
 /* Ukuran untuk perangkat dengan lebar lebih besar (misalnya tablet atau desktop besar) */
 @media (min-width: 769px) {
+    .images-col-2 {
+        width: 124%;
+    }
+
   .img-materi-garuda {
     width: 240px;
     height: auto;

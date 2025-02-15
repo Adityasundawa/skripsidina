@@ -1,5 +1,5 @@
-  /* Style untuk body */
-  body {
+/* Style untuk body */
+body {
     background-size: cover; /* Menjaga agar gambar latar belakang menutupi seluruh layar */
     background-position: center; /* Memusatkan gambar latar belakang */
     background-attachment: fixed; /* Menjaga gambar tetap pada tempatnya saat di-scroll */
@@ -22,7 +22,6 @@
 
   /* Menambahkan gambar bawah1.png sebagai latar belakang penuh halaman */
   .full-background {
-
     background-size: cover; /* Memastikan gambar menutupi seluruh halaman */
     background-position: center; /* Memusatkan gambar */
     z-index: 1; /* Menjadikan gambar berada di bawah semua elemen */
@@ -30,9 +29,8 @@
 
   /* Gambar p1.png di tengah halaman */
 
-
   /* Default styling for mobile-first approach */
-.middle-image, .left-image, .right-image {
+  .middle-image, .left-image, .right-image {
     position: absolute;
     transform: translate(-50%, -50%);
     animation: riseUp 2s ease-out forwards;
@@ -40,45 +38,50 @@
 
   /* Styling khusus untuk desktop */
   @media (min-width: 1024px) {
-
-    body{
-        background-image: url('../images/bg-utama-detskop.jpg');
+    body {
+      background-image: url('../images/bg-utama-detskop.jpg');
     }
+
     .middle-image {
-        top: 45%;
-        left: 50%;
-        width: 549px  !important;
-        height: auto;
-        z-index: 0;
+      top: 45%;
+      left: 50%;
+      width: 549px !important;
+      height: auto;
+      z-index: 0;
     }
-
+    .text-bawah {
+        top: 28%;
+        left: 0%;
+    }
     .left-image {
-        top: 47%;
-        left: 47%;
-        width: 577px !important;
-        height: auto;
-        z-index: -3;
+      top: 47%;
+      left: 47%;
+      width: 577px !important;
+      height: auto;
+      z-index: -3;
     }
 
     .right-image {
-        top: 57%;
-        left: 70%;
-        width: 529px !important;
-        height: auto;
-        z-index: -3;
+      top: 57%;
+      left: 70%;
+      width: 529px !important;
+      height: auto;
+      z-index: -3;
     }
-    .full-background{
-        position: absolute;
-        top: -414px;
-        left: 0;
-        width: 100%;
-        height: 167%;
-        background-image: url(../images/bawah1.png);
+
+    .full-background {
+      position: absolute;
+      top: -414px;
+      left: 0;
+      width: 100%;
+      height: 167%;
+      background-image: url(../images/bawah1.png);
     }
-    .vampiro-one-regular{
-        font-size: 9rem;
-        top: 45%;
-        left: 53%;
+
+    .vampiro-one-regular {
+      font-size: 9rem;
+      top: 45%;
+      left: 53%;
     }
   }
 
@@ -91,60 +94,78 @@
     .left-image {
       width: 400px;
     }
+
     .right-image {
       width: 420px;
     }
-
   }
 
-
-
+  /* Styling untuk mobile */
   @media (max-width: 768px) {
-    body{
-        background-image: url('../images/bg-2.jpg');
+    body {
+      background-image: url('../images/bg-2.jpg');
     }
-    .vampiro-one-regular{
-        font-size: 2rem;
-        top: 50%;
-        left: 50%;
+
+    .vampiro-one-regular {
+      font-size: 2rem;
+      top: 50%;
+      left: 50%;
     }
-    .full-background{
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        background-image: url('../images/bawah1.png');
+
+    .text-bawah {
+        top: 22%;
+        left: 0%;
     }
+
+    .full-background {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-image: url('../images/bawah1.png');
+    }
+
     .middle-image {
-        top: 50%;
-        left: 43%;
-        width: 524px;
+      top: 50%;
+      left: 43%;
+      width: 450px;
       transform: translate(-50%, -50%);
-              z-index: 0;
+      z-index: 0;
     }
 
     .left-image {
-        top: 44%;
+        top: 47%;
         left: 43%;
-        width: 366px !important;
-        height: auto;
-      width: 200px; /* Adjusted width */
-      transform: translate(-50%, -50%);
-      z-index: -3;
+        width: 332px;
+        transform: translate(-50%, -50%);
+        z-index: -3;
     }
 
     .right-image {
-        top: 54%;
-        left: 79%;
-        width: 373px;
-        height: auto;
+      top: 54%;
+      left: 79%;
+      width: 373px;
       transform: translate(-50%, -50%);
       z-index: -3;
     }
+
+    .vampiro-one-regular {
+      font-size: 6rem;
+    }
+
+    .play-button {
+      width: 80px;
+      height: 80px;
+    }
+
+    /* Untuk mengubah behavior scroll pada layar kecil */
+    body {
+      background-attachment: scroll; /* Memastikan gambar mengikuti scroll pada perangkat kecil */
+    }
   }
 
-
+  /* Efek animasi rise up */
   @keyframes riseUp {
     0% {
       transform: translate(-50%, 50%); /* Gambar dimulai di bawah */
@@ -154,12 +175,29 @@
     }
   }
 
-  @media (max-width: 768px) {
-    body {
-      background-attachment: scroll; /* Memastikan gambar mengikuti scroll pada perangkat kecil */
+  /* Efek echo pada teks */
+  @keyframes echoEffect {
+    0% {
+      text-shadow:
+        2px 2px 0 #bc473d,
+        4px 4px 0 #bc473d,
+        6px 6px 0 rgba(188, 71, 61, 0.5);
+    }
+    50% {
+      text-shadow:
+        3px 3px 5px #bc473d,
+        5px 5px 10px #bc473d,
+        8px 8px 15px rgba(188, 71, 61, 0.3);
+    }
+    100% {
+      text-shadow:
+        2px 2px 0 #bc473d,
+        4px 4px 0 #bc473d,
+        6px 6px 0 rgba(188, 71, 61, 0.5);
     }
   }
 
+  /* Styling untuk teks dengan efek echo */
   .vampiro-one-regular {
     font-family: "Vampiro One", serif;
     color: white;
@@ -169,40 +207,25 @@
       4px 4px 0 #bc473d,
       6px 6px 0 rgba(188, 71, 61, 0.5);
     animation: echoEffect 1.5s infinite;
-  }
-
-  @keyframes echoEffect {
-    0% {
-      text-shadow:
-        2px 2px 0 #bc473d,
-        4px 4px 0 #bc473d,
-        6px 6px 0 rgba(188, 71, 61, 0.5);
-    }
-
-    50% {
-      text-shadow:
-        3px 3px 5px #bc473d,
-        5px 5px 10px #bc473d,
-        8px 8px 15px rgba(188, 71, 61, 0.3);
-    }
-
-    100% {
-      text-shadow:
-        2px 2px 0 #bc473d,
-        4px 4px 0 #bc473d,
-        6px 6px 0 rgba(188, 71, 61, 0.5);
-    }
-  }
-
-  .vampiro-one-regular {
     position: absolute;
-
     transform: translateX(-50%);
   }
 
+  .text-bawah{
+    font-family: "Vampiro One", serif;
+    color: white;
+    z-index: 2;
+    position: relative;
+    text-shadow:
+      2px 2px 0 #bc473d,
+      4px 4px 0 #bc473d,
+      6px 6px 0 rgba(188, 71, 61, 0.5);
+  }
+
+  /* Styling untuk tombol play */
   .button-container {
     position: absolute;
-    bottom: 18%;
+    bottom: 4%;
     left: 50%;
     transform: translateX(-50%);
     z-index: 1;
@@ -230,15 +253,4 @@
   .play-button:active {
     transform: scale(0.9);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-  }
-
-  @media (max-width: 768px) {
-    .vampiro-one-regular {
-      font-size: 6rem;
-    }
-
-    .play-button {
-      width: 80px;
-      height: 80px;
-    }
   }
