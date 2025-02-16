@@ -23,29 +23,29 @@
         <div class="col-12 mt-5">
             <div class="row">
                 <!-- Left Column -->
-                  <center> <div class="col-lg-12">
+             <div class="col-lg-12">
                     <div class="row">
-                     <div class="col-lg-4">
+                     <div class="col-lg-4  d-flex justify-content-center">
                         <a href="{{ route('petunjuk') }}"><img src="{{ url('/') }}/assets/images/button/1.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
                      </div>
-                     <div class="col-lg-4">
+                     <div class="col-lg-4  d-flex justify-content-center">
                         <a href="{{ route('cp') }}"><img src="{{ url('/') }}/assets/images/button/2.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
                      </div>
-                      <div class="col-lg-4">
+                      <div class="col-lg-4  d-flex justify-content-center">
                         <a href="{{ route('materi') }}"><img src="{{ url('/') }}/assets/images/button/3.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
                      </div>
-                     <div class="col-lg-4">
+                     <div class="col-lg-4  d-flex justify-content-center">
                      <a href="{{ route('soal.nama') }}">    <img src="{{ url('/') }}/assets/images/button/4.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
                      </div>
-                     <div class="col-lg-4">
+                     <div class="col-lg-4  d-flex justify-content-center">
                         <a href="{{ route('profil') }}"> <img src="{{ url('/') }}/assets/images/button/5.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
                      </div>
-                     <div class="col-lg-4">
+                     <div class="col-lg-4  d-flex justify-content-center">
                         <a href="{{ route('profil') }}"> <img src="{{ url('/') }}/assets/images/button/6.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
                      </div>
 
                     </div>
-                </div></center>
+                </div>
 
 
 
