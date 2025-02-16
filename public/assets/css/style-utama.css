@@ -43,30 +43,30 @@ body {
     }
 
     .middle-image {
-      top: 45%;
-      left: 50%;
-      width: 549px !important;
-      height: auto;
-      z-index: 0;
+        top: 49%;
+        left: 50%;
+        width: 416px !important;
+        height: auto;
+        z-index: 0;
     }
     .text-bawah {
         top: 28%;
         left: 0%;
     }
     .left-image {
-      top: 47%;
-      left: 47%;
-      width: 577px !important;
-      height: auto;
-      z-index: -3;
+        top: 47%;
+        left: 48%;
+        width: 413px !important;
+        height: auto;
+        z-index: -3;
     }
 
     .right-image {
-      top: 57%;
-      left: 70%;
-      width: 529px !important;
-      height: auto;
-      z-index: -3;
+        top: 57%;
+        left: 64%;
+        width: 435px !important;
+        height: auto;
+        z-index: -3;
     }
 
     .full-background {

@@ -34,7 +34,6 @@
                              <div class="col-lg-5">
                             <a href="{{ route('pengesahan') }}">    <img src="{{ url('/') }}/assets/images/alur-perumusan/pengesahan.png" alt="" class="img-fluid  img-materi-bpupki" srcset=""></a>
                              </div>
-
                         </center>
                     </div>
                 </div>
