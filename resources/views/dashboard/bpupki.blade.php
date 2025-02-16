@@ -21,19 +21,8 @@
                             <h6>Pembentukan BPUPKI</h6>
                         </u>
                         <p class="text-justify">
-                            &nbsp;  &nbsp;  &nbsp; Proses rumusan Pancasila dimulai saat sidang pertama BPUPKI. BPUPKI adalah Badan
-                            Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia atau bahasa jepangnya
-                            Dokuritsu
-                            Junbi Chosa-kai yang dibentuk oleh Jepang pada 29 April 1945 atau 28 Mei 1945 di
-                            Jakarta. Badan ini diketuai oleh dr. Radjiman Wedyodiningrat dan dibantu oleh Raden
-                            Panji Soeroso dan Ichibangase Yoshio.
-                            Anggota BPUPKI berjumlah 62 atau 69 orang yang terdiri dari 62 orang Indonesia dan 7
-                            orang Jepang.
-                            Sidang pertama BPUPKI diadakan pada tanggal 29 Mei hingga 1 Juni 1945 membahas
-                            tentang
-                            dasar negara. Sidang BPUPKI dilaksanakan di Gedung Chuo Sang In (Gedung Pancasila)
-                            di
-                            Jakarta.
+                            &nbsp;  &nbsp;  &nbsp;  Proses perumusan Pancasila dimulai saat sidang pertama BPUPKI. BPUPKI adalah Badan Penyelidik Usaha-Usaha Persiapan Kemerdekaan Indonesia atau bahasa jepangnya Dokuritsu Junbi Chosa-kai yang diresmikan pada 28 Mei 1945 di Jakarta. BPUPKI diketuai oleh dr. Radjiman Wedyodiningrat dan dibantu oleh Raden Panji Soeroso dan Ichibangase Yoshio.
+                            Anggota BPUPKI berjumlah 69 orang yang terdiri dari 62 orang Indonesia dan 7 orang Jepang. Sidang pertama BPUPKI dilakukan pada tanggal 29 Mei hingga 1 Juni 1945 dengan membahas dasar negara. Sidang BPUPKI dilaksanakan di Gedung Chuo Sang In yang saat ini menjadi Gedung Pancasila di Jakarta.
                         </p>
                         <center>
                             <div class="col-lg-6">
@@ -41,9 +30,8 @@
                                     class="img-fluid" srcset="">
                             </div>
                         </center>
-                        <p class="mt-3 text-justify">Dalam sidang tersebut, tiga orang pembicara, yaitu Mohammad Yamin,
-                            Soepomo,
-                            dan Soekarno, mengusulkan lima dasar negara.
+                        <p class="mt-3 text-justify"> Dalam sidang tersebut, tiga orang pembicara, yaitu Mohammad Yamin, Soepomo, dan Soekarno, mengusulkan lima dasar negara.
+
                         </p>
 
 
@@ -65,7 +53,7 @@
                             </div>
                             <div class="col-lg-4 col-8">
                                 <p class="text-pahlawan">
-                                   <strong> Dasar negara yang diusulkan oleh Soepomo (31 Mei 1994):</strong> <br>
+                                   <strong> Dasar negara yang diusulkan oleh Soepomo (31 Mei 1945):</strong> <br>
                                     1) Persatuan <br>
                                     2) Kekeluargaan <br>
                                     3) Keseimbangan lahir dan batin <br>
@@ -95,22 +83,25 @@
                             </div>
                         </div>
                         <hr>
+                        <p class="text-justify  mt-3"> &nbsp;  &nbsp; Kelima dasar negara yang diusulkan oleh Ir. Soekarno dikenal sebagai Pancasila. Istilah "Pancasila" diusulkan atas saran dari seorang ahli bahasa. "Panca" berarti lima, dan "sila" berarti dasar. Pidato ini kemudian dikenal sebagai momen lahirnya Pancasila.
+                        </p>
                         <center>
                             <div class="col-lg-6 mt-4">
                                 <img src="assets/images/bpupki/pidato.png" alt="" class="img-fluid"
                                     srcset="">
                             </div>
                         </center>
-                        <p class="text-justify mt-3"> &nbsp;  &nbsp; Dalam pidato tersebut, Bung Karno menguraikan lima prinsip
-                            dasar yang menjadi pedoman
-                            dalam kehidupan berbangsa dan bernegara. Selain itu, pidato ini juga menjadi titik
-                            awal perumusan dasar negara
-                            Indonesia. Lima dasar yang diusulkan oleh Soekarno kemudian dikenal sebagai
-                            Pancasila. "Panca" berarti lima,
-                            dan "sila" berarti dasar. Pidato ini kemudian dikenal sebagai momen lahirnya
-                            Pancasila.
-                        </p>
+                        <p class="text-justify mt-3">Ketiga usulan dasar negara dari ketiga tokoh diatas memiliki pandangan yang berbeda tentang bagaimana bangsa Indonesia seharusnya:</p>
+                        <p><b> &nbsp;   - Mohammad Yamin :</b> Mengutamakan pentingnya identitas bangsa dan hak setiap orang. <br>
+                            <b> &nbsp;   - Soepomo :</b> Yang berfokus pada nilai-nilai sosial dan rasa kekeluargaan.
+ <br><b> &nbsp;   - Soekarno :</b> Mengutamakan semangat nasionalisme dan demokrasi, yang artinya semua orang ikut serta dalam memimpin negara. <br>
+ Meskipun berbeda, mereka memiliki kesamaan yaitu :<br>
+ &nbsp;  <b>1. Nilai Kemanusiaan :</b> Semua tokoh setuju bahwa kita harus menghargai kemanusiaan.<br>
+ &nbsp;  <b> 2. Kesejahteraan Rakyat : </b> Ketiga usulan menyatakan pentingnya kesejahteraan dan keadilan bagi semua.<br>
+ &nbsp;  <b>3. Persatuan :</b> Mereka sepakat bahwa persatuan sangat penting untuk menjaga keutuhan bangsa.<br>
+ Jadi, meski ada perbedaan, ketiga tokoh ini ingin membangun negara yang adil, sejahtera, dan menghargai nilai-nilai kemanusiaan.
 
+</p>
 
                     </div>
                 </div>

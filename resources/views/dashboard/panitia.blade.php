@@ -19,11 +19,8 @@
                                 Pembentukan Panitia 9
                             </h6>
                         </u>
-                        <p class="text-justify"> &nbsp;  &nbsp; Setelah sidang pertama BPUPKI (29 Mei - 1 Juni 1945) berhenti untuk
-                            sementara, kemudian dibentuk panitia sembilan orang yang diketuai oleh Ir. Soekarno yang
-                            secara khusus membahas dasar negara dan menyusun naskah yang akan menjadi dasar negara
-                            Indonesia Merdeka.
-                            Berikut ini anggota dari panitia Sembilan :
+                        <p class="text-justify"> &nbsp;  &nbsp; Pada 22 Juni 1945, Panitia Sembilan menghasilkan rumusan yang disebut Piagam Jakarta atau Jakarta Charter. Piagam Jakarta memainkan peran penting dalam proses perumusan Pancasila dan Undang-undang Dasar 1945. Piagam ini berisi lima sila sebagai dasar negara:
+
                         </p>
 
                         <center>
@@ -154,22 +151,19 @@
 
                        <b>
                         <p>
-                            1.Ketuhanan, dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya <br>
-                            2.Kemanusiaan yang adil dan beradab<br>
-                            3.Persatuan Indonesia<br>
-                            4.Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam
+                            1. Ketuhanan, dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya
+                            <br>
+                            2. Kemanusiaan yang adil dan beradab<br>
+                            3. Persatuan Indonesia<br>
+                            4. Kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam
                             permusyawaratan/perwakilan<br>
-                            5.Keadilan sosial bagi seluruh rakyat Indonesia<br>
+                            5. Keadilan sosial bagi seluruh rakyat Indonesia<br>
                             seluruh rakyat Indonesia<br>
 
                         </p>
                        </b>
                         <p class="text-justify">
-                            &nbsp;  &nbsp; Meskipun Piagam Jakarta telah disepakati, sempat muncul perdebatan terkait sila pertama
-                            yang berbunyi “Ketuhanan, dengan kewajiban menjalankan syariat Islam bagi
-                            pemeluk-pemeluknya”. Kritikan datang dari wakil-wakil Protestan dan Katolik dari wilayah
-                            Indonesia timur. Menanggapi keberatan tersebut, para tokoh pendiri bangsa bermusyawarah
-                            agar Indonesia tidak terpecah belah.
+                            &nbsp;  &nbsp; Dasar negara diatas merupakan usulan dari Ir. Soekarno melalui pertemuan-pertemuan yang diadakan oleh Panitia Sembilan. Meskipun Piagam Jakarta telah disepakati, sempat muncul perdebatan pada sila pertama yang berbunyi “Ketuhanan, dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya”. Kritikan datang dari wakil-wakil Protestan dan Katolik dari wilayah Indonesia timur. Menanggapi keberatan tersebut, para tokoh pendiri bangsa bermusyawarah agar Indonesia tidak terpecah belah. Meskipun ada bagian yang mengajak umat Islam untuk mengikuti aturan agamanya, Piagam Jakarta juga berusaha untuk menghargai berbagai budaya dan agama yang ada di Indonesia. Dalam pertemuan para pemimpin, piagam ini menunjukkan semangat kerja sama dan persatuan yang sangat penting untuk membangun identitas bangsa yang kuat.
 
                         </p>
 

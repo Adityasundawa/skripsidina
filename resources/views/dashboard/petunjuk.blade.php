@@ -26,7 +26,7 @@
                     <div class="row">
                         <!-- Left Column -->
                          <center>
-                            <h5> FUNGSI TOMBOL</h5>
+                            <h6 style="font-size: 23px;"> FUNGSI TOMBOL</h6>
                          </center>
                         <div class="col-12 col-lg-6">
                             <div class="row">
@@ -52,12 +52,6 @@
                                     <h5 class="mt-3 text-col-10">Menuju halaman materi</h5>
                                 </div>
 
-                                <div class="col-3 d-flex justify-content-center align-items-center mb-3">
-                                    <img src="{{ url('/') }}/assets/images/LOGO PETUNJUK/icon-soal.png" class="img-fluid images-col-3" alt="">
-                                </div>
-                                <div class="col-9 mb-3">
-                                    <h5 class="mt-3 text-col-10">Menuju halaman Latihan Soal</h5>
-                                </div>
 
 
                             </div>
@@ -66,6 +60,13 @@
                         <!-- Right Column -->
                         <div class="col-12 col-lg-6">
                             <div class="row">
+
+                                <div class="col-3 d-flex justify-content-center align-items-center mb-3">
+                                    <img src="{{ url('/') }}/assets/images/LOGO PETUNJUK/icon-soal.png" class="img-fluid images-col-3" alt="">
+                                </div>
+                                <div class="col-9 mb-3">
+                                    <h5 class="mt-3 text-col-10">Menuju halaman Latihan Soal</h5>
+                                </div>
 
 
                                 <div class="col-3 d-flex justify-content-center align-items-center mb-3">
@@ -81,7 +82,6 @@
                                 <div class="col-9 mb-3">
                                     <h5 class="mt-3 text-col-10">Menuju halaman profil pengembang</h5>
                                 </div>
-
 
 
                             </div>

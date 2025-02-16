@@ -12,7 +12,7 @@
 
 <body>
     <a href="javascript:history.back()" style="position: absolute; top: 10px; left: 10px;">
-        <img src="{{ url('/') }}/assets/images/LOGO PETUNJUK/icon-keluar.png" alt="Icon" class="img-fluid" style="width: 50px; height: 40px;">
+        <img src="{{ url('/') }}/assets/images/LOGO PETUNJUK/icon-keluar.png" alt="Icon" class="img-fluid button-back" style="width: 50px; height: 40px;">
     </a>
 
     @yield('content')

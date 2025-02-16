@@ -2,7 +2,16 @@
 
 @section('title', 'Materi')
 
+@section('custom-css')
+
+<style>
+    .button-back{
+display: none
+}
+</style>
+@endsection
 @section('content')
+
 <div class="d-flex justify-content-center mt-5">
     <h1>Soal {{ $question->id }} / {{ count($count) }}</h1>
 </div>
