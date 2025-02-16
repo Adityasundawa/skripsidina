@@ -103,6 +103,9 @@ class DashboardController extends Controller
      }
 
 
+     public function sumber(){
+        return view('dashboard.sumber');
+     }
 
 
 }

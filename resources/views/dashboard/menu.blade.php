@@ -41,7 +41,7 @@
                         <a href="{{ route('profil') }}"> <img src="{{ url('/') }}/assets/images/button/5.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
                      </div>
                      <div class="col-lg-4  d-flex justify-content-center">
-                        <a href="{{ route('profil') }}"> <img src="{{ url('/') }}/assets/images/button/6.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
+                        <a href="{{ route('sumber') }}"> <img src="{{ url('/') }}/assets/images/button/6.png" alt="Contoh Gambar" class="img-fluid-menu"></a>
                      </div>
 
                     </div>

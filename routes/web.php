@@ -24,6 +24,7 @@ Route::get('/ppki', [DashboardController::class, 'ppki'])->name('ppki');
 Route::get('/pengesahan', [DashboardController::class, 'pengesahan'])->name('pengesahan');
 
 Route::get('/profil', [DashboardController::class, 'profil'])->name('profil');
+Route::get('/sumber', [DashboardController::class, 'sumber'])->name('sumber');
 
 
 Route::get('/soal/{id}', [DashboardController::class, 'soal'])->name('soal.show');

@@ -34,7 +34,7 @@
                                     <img src="{{ url('/') }}/assets/images/LOGO PETUNJUK/icon-petunjuk.png" class="img-fluid images-col-3" alt="">
                                 </div>
                                 <div class="col-9 mb-3">
-                                    <h5 class="mt-3 text-col-10">Menuju halaman petunjuk</h5>
+                                    <h5 class="mt-5 text-col-10">Menuju halaman Petunjuk</h5>
                                 </div>
 
 
@@ -42,14 +42,14 @@
                                     <img src="{{ url('/') }}/assets/images/LOGO PETUNJUK/icon-cp & tp.png" class="img-fluid images-col-3" alt="">
                                 </div>
                                 <div class="col-9 mb-3">
-                                    <h5 class="mt-3 text-col-10">Menuju halaman CP & TP</h5>
+                                    <h5 class="mt-5 text-col-10">Menuju halaman CP & TP</h5>
                                 </div>
 
                                 <div class="col-3 d-flex justify-content-center align-items-center mb-3">
                                     <img src="{{ url('/') }}/assets/images/LOGO PETUNJUK/icon-materi.png" class="img-fluid images-col-3" alt="">
                                 </div>
                                 <div class="col-9 mb-3">
-                                    <h5 class="mt-3 text-col-10">Menuju halaman materi</h5>
+                                    <h5 class="mt-5 text-col-10">Menuju halaman Materi</h5>
                                 </div>
 
 
@@ -65,7 +65,7 @@
                                     <img src="{{ url('/') }}/assets/images/LOGO PETUNJUK/icon-soal.png" class="img-fluid images-col-3" alt="">
                                 </div>
                                 <div class="col-9 mb-3">
-                                    <h5 class="mt-3 text-col-10">Menuju halaman Latihan Soal</h5>
+                                    <h5 class="mt-5 text-col-10">Menuju halaman Latihan Soal</h5>
                                 </div>
 
 
@@ -73,14 +73,14 @@
                                     <img src="{{ url('/') }}/assets/images/LOGO PETUNJUK/icon-keluar.png" class="img-fluid images-col-3" alt="">
                                 </div>
                                 <div class="col-9 mb-3">
-                                    <h5 class="mt-3 text-col-10">Keluar halaman atau keluar aplikasi</h5>
+                                    <h5 class="mt-5 text-col-10">Keluar halaman </h5>
                                 </div>
 
                                 <div class="col-3 d-flex justify-content-center align-items-center mb-3">
                                     <img src="{{ url('/') }}/assets/images/LOGO PETUNJUK/icon-pengembang.png" class="img-fluid images-col-3" alt="">
                                 </div>
                                 <div class="col-9 mb-3">
-                                    <h5 class="mt-3 text-col-10">Menuju halaman profil pengembang</h5>
+                                    <h5 class="mt-5 text-col-10">Menuju halaman Profil Pengembang</h5>
                                 </div>
 
 
