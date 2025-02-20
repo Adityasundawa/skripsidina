@@ -29,7 +29,7 @@
                                 <img src="assets/images/bpupki/gedung pancasila.webp" alt=""
                                     class="img-fluid" srcset="">
                             </div>
-                            <p class="text-sumber">Sumber : <a href="https://travel.kompas.com/read/2021/06/01/171500427/11-fakta-menarik-gedung-pancasila-saksi-pergantian-orde-di-indonesia?page=all">https://travel.kompas.com/read/2021/06/01/171500427/11-fakta-menarik-gedung-pancasila-saksi-pergantian-orde-di-indonesia?page=all</a> </p>
+
                         </center>
                         <p class="mt-3 text-justify"> Dalam sidang tersebut, tiga orang pembicara, yaitu Mohammad Yamin, Soepomo, dan Soekarno, mengusulkan lima dasar negara.
 
@@ -51,7 +51,7 @@
                             <div class="col-lg-2 col-4">
                                 <img src="assets/images/bpupki/9.jpg" alt="" class="img-fluid mt-2"
                                      srcset="">
-                                     <p class="text-sumber">Sumber : <a href="https://s.id/lTCrw">https://s.id/lTCrw</a> </p>
+
                             </div>
                             <div class="col-lg-4 col-8">
                                 <p class="text-pahlawan">
@@ -66,7 +66,7 @@
                             <div class="col-lg-2 col-4">
                                 <img src="assets/images/bpupki/10.jpg" alt="" class="img-fluid mt-2"
                                      srcset="">
-                                     <p class="text-sumber">Sumber : <a href="https://s.id/tOOff">https://s.id/tOOff</a> </p>
+
                             </div>
                             <div class="col-lg-4 col-8">
                                 <p class="text-pahlawan">
@@ -83,7 +83,7 @@
                             <div class="col-lg-2 col-4">
                                 <img src="assets/images/bpupki/8.jpg" alt="" class="img-fluid mt-2"
                                      srcset="">
-                                     <p class="text-sumber">Sumber : <a href="https://s.id/Hs0Bc">https://s.id/Hs0Bc</a> </p>
+                                   
 
                             </div>
                         </div>

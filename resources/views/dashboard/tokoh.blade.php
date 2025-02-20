@@ -43,7 +43,6 @@
                         <p class="text-justify">
                             &nbsp; Soepomo adalah seorang tokoh yang sangat bijak dan peduli dengan keadilan. Ia ingin semua orang di Indonesia mendapatkan hak yang sama. Soepomo mengajarkan kita tentang musyawarah. Dia percaya bahwa sebelum mengambil keputusan, kita harus berdiskusi dan mendengarkan pendapat orang lain. Dengan begitu, semua orang merasa dihargai dan bisa berpartisipasi.
 <br> &nbsp; Soepomo juga menunjukkan toleransi dalam perbedaan pendapat. Meski orang-orang bisa memiliki pandangan yang berbeda, Soepomo mengingatkan kita bahwa kita harus saling menghormati dan bekerja sama untuk mencapai kesepakatan.
-
                         </p>
 
                         <div class="col-lg-5">

@@ -28,7 +28,7 @@
                     <img src="assets/images/btn/note.png" alt="" class="img-fluid">
                     <p class="text-justify"> &nbsp; Kamu telah membaca penjelasan mengenai alur peristiwa proses perumusan Pancasila. Sekarang coba lakukan diskusi bersama teman-temanmu untuk menemukan alur peristiwa sejarah perumusan pancasila secara runtut berdasarkan urutan tahun terjadinya dan isi peristiwanya!
                         Selanjutnya, ceritakan secara singkat dan jelas di depan kelas bersama kelompokmu!
-                        Buat berdasarkan contoh alur seperti yang di contohkan !</p>
+                        <br>Buat berdasarkan contoh alur seperti yang di contohkan !</p>
                       <div class="col-lg-12">
                          <center> <img src="assets/images/alur.png"  alt="" class="img-fluid"></center>
                       </div>

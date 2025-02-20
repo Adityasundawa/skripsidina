@@ -187,7 +187,7 @@
                             <div class="col-lg-6">
                                 <img src="assets/images/bpupki/Piagam_Jakarta.jpg" alt="" class="img-fluid"
                                     srcset="">
-                                    <p class="text-sumber">Sumber : <a href="https://id.m.wikipedia.org/wiki/Berkas:Naskah_Asli_Piagam_Jakarta.jpg">Sumber : https://id.m.wikipedia.org/wiki/Berkas:Naskah_Asli_Piagam_Jakarta.jpg</a></p>
+                                    <p class="text-sumber">Sumber : <a href="https://id.m.wikipedia.org/wiki/Berkas:Naskah_Asli_Piagam_Jakarta.jpg">https://id.m.wikipedia.org/wiki/Berkas:Naskah_Asli_Piagam_Jakarta.jpg</a></p>
                             </div>
                         </center>
                     </div>
