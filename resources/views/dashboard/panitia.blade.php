@@ -31,8 +31,10 @@
                                         <div class="card-body">
                                             <img src="assets/images/bpupki/8.jpg" alt="" class="img-fluid"
                                                 srcset="">
+                                                <p class="text-sumber"> Sumber : <a href="https://pin.it/1DuhMxejQ">https://pin.it/1DuhMxejQ</a></p>
                                         </div>
                                         <div class="card-footer text-center text-pahlawan">
+
                                             Ir. Soekarno<br> (Ketua)
                                         </div>
                                     </div>
@@ -42,6 +44,7 @@
                                         <div class="card-body">
                                             <img src="assets/images/bpupki/3.jpg" alt="" class="img-fluid"
                                                 srcset="">
+                                                <p class="text-sumber">Sumber : <a href="https://s.id/37hni">https://s.id/9TrD8</a></p>
                                         </div>
                                         <div class="card-footer text-center text-pahlawan">
                                             Drs. Moh. Hatta <br>
@@ -55,6 +58,7 @@
                                         <div class="card-body">
                                             <img src="assets/images/bpupki/6.jpg" alt="" class="img-fluid"
                                                 srcset="">
+                                                <p class="text-sumber">Sumber : <a href="https://s.id/37hni">Sumber : https://s.id/37hni</a></p>
                                         </div>
                                         <div class="card-footer text-center text-pahlawan">
                                             Mrs. A.A Maramis
@@ -67,6 +71,7 @@
                                         <div class="card-body">
                                             <img src="assets/images/bpupki/9.jpg" alt="" class="img-fluid"
                                                 srcset="">
+                                                <p class="text-sumber">Sumber : <a href="https://s.id/7yhQR">Sumber : https://s.id/7yhQR</a></p>
                                         </div>
                                         <div class="card-footer text-center text-pahlawan">
                                             Muhammad Yamin
@@ -79,6 +84,7 @@
                                         <div class="card-body">
                                             <img src="assets/images/bpupki/7.jpg" alt="" class="img-fluid"
                                                 srcset="">
+                                                <p class="text-sumber">Sumber : <a href="https://s.id/U1O3M">Sumber : https://s.id/U1O3M</a></p>
                                         </div>
                                         <div class="card-footer text-center text-pahlawan">
                                             Raden Abikusno Tjokrosoejoso
@@ -92,6 +98,7 @@
                                         <div class="card-body">
                                             <img src="assets/images/bpupki/4.jpg" alt="" class="img-fluid"
                                                 srcset="">
+                                                <p class="text-sumber">Sumber : <a href="https://s.id/gx5yS">Sumber : https://s.id/gx5yS</a></p>
                                         </div>
                                         <div class="card-footer text-center text-pahlawan">
                                             K.H. A. Wachid Hasjim
@@ -104,6 +111,8 @@
                                         <div class="card-body">
                                             <img src="assets/images/bpupki/1.jpg" alt="" class="img-fluid"
                                                 srcset="">
+                                                <p class="text-sumber">Sumber : <a href="https://s.id/kK9ON">Sumber : https://s.id/kK9ON</a></p>
+
                                         </div>
                                         <div class="card-footer text-center text-pahlawan">
                                             Mr. Ahmad Soebardjo
@@ -116,6 +125,7 @@
                                         <div class="card-body">
                                             <img src="assets/images/bpupki/2.jpg" alt="" class="img-fluid"
                                                 srcset="">
+                                                <p class="text-sumber">Sumber : <a href="https://s.id/c7dAP">Sumber : https://s.id/c7dAP</a></p>
                                         </div>
                                         <div class="card-footer text-center text-pahlawan">
                                             Abdoel Kahar Moezakir
@@ -128,6 +138,7 @@
                                         <div class="card-body">
                                             <img src="assets/images/bpupki/5.jpg" alt="" class="img-fluid"
                                                 srcset="">
+                                                <p class="text-sumber">Sumber : <a href="https://s.id/PeljA">Sumber : https://s.id/PeljA</a></p>
                                         </div>
                                         <div class="card-footer text-center text-pahlawan">
                                             H. Agus Salim
@@ -176,6 +187,7 @@
                             <div class="col-lg-6">
                                 <img src="assets/images/bpupki/Piagam_Jakarta.jpg" alt="" class="img-fluid"
                                     srcset="">
+                                    <p class="text-sumber">Sumber : <a href="https://id.m.wikipedia.org/wiki/Berkas:Naskah_Asli_Piagam_Jakarta.jpg">Sumber : https://id.m.wikipedia.org/wiki/Berkas:Naskah_Asli_Piagam_Jakarta.jpg</a></p>
                             </div>
                         </center>
                     </div>

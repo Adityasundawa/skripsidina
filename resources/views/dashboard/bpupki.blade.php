@@ -29,6 +29,7 @@
                                 <img src="assets/images/bpupki/gedung pancasila.webp" alt=""
                                     class="img-fluid" srcset="">
                             </div>
+                            <p class="text-sumber">Sumber : <a href="https://travel.kompas.com/read/2021/06/01/171500427/11-fakta-menarik-gedung-pancasila-saksi-pergantian-orde-di-indonesia?page=all">https://travel.kompas.com/read/2021/06/01/171500427/11-fakta-menarik-gedung-pancasila-saksi-pergantian-orde-di-indonesia?page=all</a> </p>
                         </center>
                         <p class="mt-3 text-justify"> Dalam sidang tersebut, tiga orang pembicara, yaitu Mohammad Yamin, Soepomo, dan Soekarno, mengusulkan lima dasar negara.
 
@@ -50,6 +51,7 @@
                             <div class="col-lg-2 col-4">
                                 <img src="assets/images/bpupki/9.jpg" alt="" class="img-fluid mt-2"
                                      srcset="">
+                                     <p class="text-sumber">Sumber : <a href="https://s.id/lTCrw">https://s.id/lTCrw</a> </p>
                             </div>
                             <div class="col-lg-4 col-8">
                                 <p class="text-pahlawan">
@@ -64,6 +66,7 @@
                             <div class="col-lg-2 col-4">
                                 <img src="assets/images/bpupki/10.jpg" alt="" class="img-fluid mt-2"
                                      srcset="">
+                                     <p class="text-sumber">Sumber : <a href="https://s.id/tOOff">https://s.id/tOOff</a> </p>
                             </div>
                             <div class="col-lg-4 col-8">
                                 <p class="text-pahlawan">
@@ -80,16 +83,30 @@
                             <div class="col-lg-2 col-4">
                                 <img src="assets/images/bpupki/8.jpg" alt="" class="img-fluid mt-2"
                                      srcset="">
+                                     <p class="text-sumber">Sumber : <a href="https://s.id/Hs0Bc">https://s.id/Hs0Bc</a> </p>
+
                             </div>
                         </div>
                         <hr>
-                        <p class="text-justify  mt-3"> &nbsp;  &nbsp; Kelima dasar negara yang diusulkan oleh Ir. Soekarno dikenal sebagai Pancasila. Istilah "Pancasila" diusulkan atas saran dari seorang ahli bahasa. "Panca" berarti lima, dan "sila" berarti dasar. Pidato ini kemudian dikenal sebagai momen lahirnya Pancasila.
+                        <p class="text-justify  mt-3"> &nbsp;  &nbsp;   Dalam pidato tersebut, Bung Karno menguraikan lima prinsip dasar yang menjadi pedoman dalam kehidupan berbangsa dan bernegara. Kelima dasar negara yang diusulkan oleh Ir. Soekarno diatas diberi nama “Pancasila” atas saran dan rekomendasi dari seorang ahli Bahasa. "Panca" berarti lima, dan "sila" berarti dasar. Sehingga setiap tanggal 1 Juni dikenal sebagai momen lahirnya “Pancasila”.
                         </p>
+
+                        <div class="card" style="background-color: #95111d !important; color:#fff5dc">
+
+                            <div class="card-body">
+                              <b>  Yang perlu kamu tahu! <br>
+                                Pada tanggal 1 Juni, yang dirayakan adalah lahirnya istilah nama "Pancasila", belum mencakup isi dari Pancasila itu sendiri.</b>
+
+                            </div>
+                        </div>
+
+
                         <center>
                             <div class="col-lg-6 mt-4">
                                 <img src="assets/images/bpupki/pidato.png" alt="" class="img-fluid"
                                     srcset="">
                             </div>
+                            <p class="text-sumber">Sumber : <a href="https://demafuad.iainponorogo.ac.id/2023/06/01/3755-2/">https://demafuad.iainponorogo.ac.id/2023/06/01/3755-2/</a></p>
                         </center>
                         <p class="text-justify mt-3">Ketiga usulan dasar negara dari ketiga tokoh diatas memiliki pandangan yang berbeda tentang bagaimana bangsa Indonesia seharusnya:</p>
                         <p><b> &nbsp;   - Mohammad Yamin :</b> Mengutamakan pentingnya identitas bangsa dan hak setiap orang. <br>

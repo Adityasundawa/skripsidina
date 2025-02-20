@@ -16,74 +16,70 @@
                         <p class="text-justify"> &nbsp;  &nbsp; Proses perumusan Pancasila sebagai dasar negara Indonesia melibatkan banyak diskusi dan kerja sama antara para pemimpin bangsa. Tokoh-tokoh nasional yang terlibat memiliki ide dan nilai-nilai penting untuk menyatukan Indonesia, yang terdiri dari berbagai suku, agama, dan golongan. Karakter baik para tokoh ini sangat penting agar dasar negara bisa diterima oleh semua orang.
                         </p>
                         <div class="col-lg-3">
-                            <h6><u>Toleransi </u></h6>
+                            <h6>Ir. Soekarno</h6>
                         </div>
-                        <p class="text-justify"> &nbsp; Para tokoh seperti Soekarno dan Moh. Hatta menunjukkan sikap toleransi yang sangat baik. Dalam proses membuat Pancasila, mereka saling menghargai pendapat satu sama lain, meskipun ada perbedaan. Mereka juga mendengarkan pendapat orang lain saat teman-teman yang beragama Kristen dan Katolik, saat ada perbedaan tentang sila pertama Pancasila yang awalnya berbunyi “Ketuhanan, dengan kewajiban menjalankan syariat Islam bagi pemeluk-pemeluknya.” <br>
-                            &nbsp; Toleransi yang ditunjukkan oleh para tokoh ini mencerminkan sila pertama Pancasila, yaitu "Ketuhanan yang Maha Esa." Dengan menghargai perbedaan agama dan pendapat, mereka menciptakan kerukunan dan saling menghormati antarumat beragama, yang merupakan inti dari nilai ketuhanan.
+                        <p class="text-justify"> &nbsp; Ir. Soekarno adalah pemimpin yang sangat berani dan memiliki kemampuan berbicara yang luar biasa. Dengan visi yang jelas untuk masa depan Indonesia, ia bertekad agar seluruh rakyat Indonesia bersatu dalam perjuangan kemerdekaan dan pembangunan bangsa.
+
+
+
+
+
+
+
                         </p>
-                        <div class="col-lg-3">
-                            <h6><u>Kepemimpinan </u></h6>
-                        </div>
-                        <p class="text-justify"> &nbsp;  &nbsp; Soekarno adalah pemimpin yang memiliki visi yang jelas untuk Indonesia merdeka. Ia berhasil mengajak banyak orang dari berbagai latar belakang untuk bersatu. Mohammad Hatta juga selalu menekankan pentingnya musyawarah dan berdialog dengan masyarakat agar semua orang bisa ikut berpartisipasi. Kepemimpinan yang baik seperti ini sesuai dengan sila kedua, "Kemanusiaan yang Adil dan Beradab," yang mengedepankan keadilan dan kemanusiaan.
-                            <br>
-                             &nbsp;Kepemimpinan yang terbuka, seperti yang ditunjukkan oleh Soekarno dan Hatta, sejalan
-                            dengan sila kedua, "Kemanusiaan yang Adil dan Beradab." Pemimpin yang baik harus mampu
-                            mempersatukan masyarakat dan mengedepankan nilai-nilai keadilan serta kemanusiaan dalam
-                            setiap keputusan.
-                        </p>
+
                         <iframe width="560" height="315"
                             src="https://www.youtube.com/embed/jalNZLAo2ss?si=Ro180q7Dck1chhEw"
                             title="YouTube video player" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                        <div class="col-lg-3">
-                            <h6 class="mt-5"><u>Persatuan</u></h6>
+                            <center> <p class="text-sumber"> <a href="https://youtu.be/jalNZLAo2ss?si=tGyitd6UZLJgOWDt ">Sumber : https://youtu.be/jalNZLAo2ss?si=tGyitd6UZLJgOWDt </a></p></center>
+                            <p class="text-justify"> &nbsp; Soekarno juga mengajarkan nilai persatuan, meskipun rakyat Indonesia berasal dari berbagai suku, agama, dan budaya, persatuan adalah kunci untuk menciptakan kekuatan.
+                            Sikap toleransi Soekarno sangat menonjol, terutama dalam proses perumusan Pancasila. Ia dan para tokoh lainnya saling menghargai pendapat satu sama lain, meskipun terdapat perbedaan pandangan. Hal ini menunjukkan bahwa perbedaan dapat dihadapi dengan saling menghormati Selain itu, Soekarno mengajarkan kerjasama. Ia mendorong semua pihak untuk memiliki semangat gotong royong untuk mencapai tujuan bersama.
+                            </p>
+                            <div class="col-lg-3">
+                            <h6 class="mt-2">Soepomo</h6>
                         </div>
-                        <p class="text-justify"> &nbsp;  &nbsp;Saat menghadapi ketidaksetujuan dari teman-teman yang beragama Kristen dan Katolik tentang sila pertama Pancasila, para tokoh tetap mengutamakan semangat persatuan dan kesatuan. Mereka tidak membiarkan perbedaan pendapat menjadi penghalang, tetapi justru melihatnya sebagai kesempatan untuk mencapai kesepakatan.
-                            <br>
-                            &nbsp; Semangat persatuan terlihat jelas dari anggota BPUPKI yang bekerja sama meskipun memiliki pendapat yang berbeda. Mereka berusaha keras untuk mewujudkan Indonesia Merdeka tanpa membiarkan perbedaan menghalangi kerja sama. Proses membuat Pancasila menunjukkan betapa pentingnya persatuan, yang tercermin dalam sila "Persatuan Indonesia" sebagai bagian utama dari Pancasila.
+                        <p class="text-justify">
+                            &nbsp; Soepomo adalah seorang tokoh yang sangat bijak dan peduli dengan keadilan. Ia ingin semua orang di Indonesia mendapatkan hak yang sama. Soepomo mengajarkan kita tentang musyawarah. Dia percaya bahwa sebelum mengambil keputusan, kita harus berdiskusi dan mendengarkan pendapat orang lain. Dengan begitu, semua orang merasa dihargai dan bisa berpartisipasi.
+<br> &nbsp; Soepomo juga menunjukkan toleransi dalam perbedaan pendapat. Meski orang-orang bisa memiliki pandangan yang berbeda, Soepomo mengingatkan kita bahwa kita harus saling menghormati dan bekerja sama untuk mencapai kesepakatan.
 
                         </p>
 
                         <div class="col-lg-5">
-                            <h6><u>Mendengarkan dan menghargai pendapat orang lain  </u></h6>
+                            <h6>Muhammad Yamin</h6>
                           </div>
-                          <p class="text-justify"> &nbsp;  Tokoh-tokoh seperti Mohammad Yamin dan Soepomo menunjukkan sikap yang baik dengan mendengarkan pendapat orang lain. Mereka tidak hanya menceritakan pendapat mereka sendiri, tetapi juga menghargai pendapat orang lain. Sikap ini mencerminkan nilai musyawarah yang ada dalam sila keempat Pancasila, "Kerakyatan yang Dipimpin oleh Hikmat Kebijaksanaan dalam Permusyawaratan/Perwakilan."
-
-                        </p>
-                        <div class="col-lg-5">
-                            <h6><u> Rela Berkorban
-                            </u></h6>
-                          </div>
-                          <p class="text-justify"> &nbsp;  Para tokoh yang merumuskan Pancasila rela mengorbankan waktu dan tenaga mereka untuk kebaikan bangsa. Mereka siap berkorban supaya Pancasila bisa menjadi dasar negara yang kuat dan kokoh. Artinya, mereka bekerja keras dan tidak mengeluh demi masa depan Indonesia yang lebih baik.
-
+                          <p class="text-justify"> &nbsp;  Muhammad Yamin adalah seorang tokoh yang sangat kreatif dan penuh semangat. Dia bukan hanya seorang pejuang kemerdekaan, tetapi juga seorang penyair yang mencintai Indonesia. Ia  mengajarkan kita untuk cinta tanah air. Ia percaya bahwa kita harus bangga dengan Indonesia dan berjuang untuk kebebasan bangsa kita. Melalui puisi-puisinya, ia mengungkapkan rasa cintanya kepada negara.Dia juga mengedepankan persatuan. Muhammad Yamin ingin semua orang, dari berbagai suku dan budaya, bersatu untuk membangun Indonesia yang lebih baik. Dia percaya bahwa dengan bekerja sama, kita bisa mencapai tujuan bersama.
+                          <br>
+                          <b>  Berikut adalah salah satu puisi yang ditulis oleh Muhammad Yamin dari 15 halaman karyanya.</b>
                         </p>
 
+                        <img src="assets/images/puisi.jpg" class="img-fluid" alt="">
+                        <center><p class="text-sumber">Sumber : <a href="https://x.com/mazzini_gsp/status/1405174755066482695/photo/1">https://x.com/mazzini_gsp/status/1405174755066482695/photo/1</a></p></center>
+
+
+
                         <div class="col-lg-5">
-                            <h6><u>Menerima dan melaksanakan keputusan bersama
-
-                            </u></h6>
+                            <h6> Muhammad Hatta
+                           </h6>
                           </div>
-                          <p class="text-justify"> &nbsp; Tokoh-tokoh perumus Pancasila selalu berusaha mencapai kesepakatan. Mereka mau menerima keputusan bersama meskipun tidak sesuai dengan pendapat pribadi. Ini menunjukkan sikap dewasa dan komitmen untuk kebaikan bersama.
-
+                          <p class="text-justify"> &nbsp;  Muhammad Hatta adalah seorang tokoh yang sangat cerdas dan berani. Ia dikenal sebagai Bapak Kemandirian Indonesia, dan ia sangat peduli dengan rakyatnya. Hatta mengajarkan kita tentang kemandirian. Ia ingin semua orang di Indonesia memiliki kesempatan untuk berkembang dan hidup dengan baik.
                         </p>
+                            <p class="text-justify"> &nbsp;  Salah satu sifat penting yang dimiliki Hatta adalah musyawarah. Ketika teman-teman dari Indonesia Timur tidak setuju dengan sila pertama Pancasila, Hatta segera menemui tokoh-tokoh agama untuk berdialog. Ia berusaha mencari cara agar semua orang bisa menerima dasar negara yang sedang dibahas. Ini menunjukkan betapa pentingnya berbicara dan mencari solusi bersama untuk menjaga persatuan.
 
-                        <div class="col-lg-5">
-                            <h6><u>     Musyawarah
+                        </p>  <img src="assets/images/materi/musyararh.png" alt="" class="img-fluid" srcset="">
 
-                            </u></h6>
-                          </div>
-                          <p class="text-justify"> &nbsp;  &nbsp;  Proses perumusan Pancasila dilakukan dengan cara musyawarah. Melalui musyawarah tersebut, tercermin semangat kebersamaan dalam mencapai suatu kesepakatan karena semua tokoh diberi kesempatan untuk berbicara dan menyampaikan pendapat mereka
-                            <br>
-                            &nbsp;   &nbsp; Selain itu, ketika teman-teman dari Indonesia timur yang merasa tidak setuju dengan sila pertama, Mohammad Hatta segera menemui tokoh-tokoh agama untuk berdialog lebih lanjut. Ia berusaha mencari solusi agar semua orang bisa menerima dasar negara yang sedang dirumuskan. Ini menunjukkan pentingnya dialog dan kompromi untuk menjaga persatuan dan memastikan Pancasila diterima oleh semua masyarakat Indonesia
+<center><p class="text-sumber">Sumber : <a href="https://s.id/HMEmU">https://s.id/HMEmU</a> </p></center>
 
-                           </p>
+                                <p class="text-justify"> &nbsp;
+                                    Selain itu, Hatta juga sangat toleran. Ia tahu bahwa Indonesia memiliki banyak suku, agama, dan budaya yang berbeda. Dengan mengutamakan dialog, Hatta memastikan bahwa semua pendapat didengar dan dihargai. Ia percaya bahwa toleransi adalah kunci untuk menciptakan masyarakat yang rukun dan damai.
 
-                      <img src="assets/images/materi/musyararh.png" alt="" class="img-fluid" srcset="">
-
+                                </p>
+                                <p class="text-justify"> &nbsp;
+                                    Keseluruhan karakter dan nilai-nilai yang ditunjukkan oleh tokoh-tokoh diatas seperti persatuan, toleransi, keadilan, kerjasama, dan cinta tanah air merupakan inti dari Pancasila. Pancasila menjadi simbol yang mengingatkan kita akan pentingnya hidup rukun dalam keberagaman untuk membangun Indonesia yang merdeka dan sejahtera.
+                                </p>
 
 
-                    </div>
 
 
                 </div>

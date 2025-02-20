@@ -31,7 +31,9 @@ h1 {
 }
 
 
-
+.text-sumber{
+    font-size: 10px;
+}
 .text-col-10 {
   font-size: 18px;
   color: rgb(0, 0, 0);
