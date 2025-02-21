@@ -19,10 +19,10 @@
                         <div class="col-12 mt-5 text-justify">
                             <b><u><h6>B.TUJUAN PEMBELAJARAN(TP)</h6></u></b>
                             <p>1.Melalui penggunaan multimedia interaktif, siswa mampu menjelaskan kronologi sejarah kelahiran pancasila dengan benar.</p>
-                            <p>2.Melalui penggunaan multimedia interaktif, siswa mampu mengenal karakter para perumus Pancasila.
+                            <p>2.Melalui penggunaan multimedia interaktif, siswa mampu mengenal karakter para perumus Pancasila dengan baik.
 
                             </p>
-                           
+
                         </div>
                     </div>
                 </div>
